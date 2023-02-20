@@ -1,0 +1,2129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta name="Generator" content="SAS Software Version 9.4, see www.sas.com">
+<meta http-equiv="Content-type" content="text/html">
+<title>SAS Output</title>
+<style type="text/css">
+<!--
+.aligncontents
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+  text-align: left;
+  vertical-align: middle;
+}
+.batch
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #3872AC;
+  border-left-width: 2px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 2px;
+  color: #000000;
+  font-family: 'Courier New', Courier, fixed;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  vertical-align: middle;
+}
+.body
+{
+  background-color: #FFFFFF;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.bodytext
+{
+  color: #000000;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 9pt;
+  font-weight: bold;
+  padding: 0px;
+}
+.cell
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.column
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #3872AC;
+  border-left-width: 2px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 2px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  vertical-align: middle;
+}
+.container
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.contentitem
+{
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 10pt;
+}
+.contentproclabel
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.contentprocname
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.contents
+{
+  background-color: #EEEAC1;
+  color: #000000;
+  list-style-type: decimal;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.contentsdate
+{
+  background-color: #FFFFFF;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+  width: 100%;
+}
+.contenttitle
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: italic;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.continued
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.data
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, sans-serif;
+  font-size: 8pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 3px;
+}
+.dataemphasis
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, sans-serif;
+  font-size: 8pt;
+  font-style: italic;
+  font-weight: normal;
+  margin: 0px;
+  padding: 3px;
+}
+.dataemphasisfixed
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, sans-serif;
+  font-size: 8pt;
+  font-style: italic;
+  font-weight: normal;
+  margin: 0px;
+  padding: 3px;
+}
+.dataempty
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, sans-serif;
+  font-size: 8pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 3px;
+}
+.datafixed
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: 'Courier New', Courier, fixed;
+  font-size: 8pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 3px;
+}
+.datafixedemphasis
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: 'Courier New', Courier, fixed;
+  font-size: 8pt;
+  font-style: italic;
+  font-weight: normal;
+  margin: 0px;
+  padding: 3px;
+}
+.datastrong
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, sans-serif;
+  font-size: 8pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+}
+.datastrongfixed
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: 'Courier New', Courier, fixed;
+  font-size: 8pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+}
+.date
+{
+  background-color: #FFFFFF;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+  width: 100%;
+}
+.default
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.document
+{
+}
+a:link {
+color:#275E94
+}
+a:visited {
+color:#275E94
+}
+a:active {
+color:#275E94
+}
+.drilldetaildata
+{
+  background-color: #FFFFFF;
+  color: #34699E;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 9pt;
+  font-weight: normal;
+  padding: 0px;
+}
+.drilldetailhover
+{
+  background-color: #FFFFFF;
+  color: #34699E;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 9pt;
+  font-weight: normal;
+  padding: 0px;
+  text-decoration: underline;
+}
+.errorbanner
+{
+  background-color: #FFFFFF;
+  border: 1px solid #3872AC;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: left;
+  vertical-align: middle;
+}
+.errorcontent
+{
+  background-color: #FFFFFF;
+  border: 1px solid #3872AC;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: left;
+  vertical-align: middle;
+}
+.errorcontentfixed
+{
+  background-color: #FFFFFF;
+  border: 1px solid #3872AC;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Courier New', Courier, fixed;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: left;
+  vertical-align: middle;
+}
+.extendedpage
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.fatalbanner
+{
+  background-color: #FFFFFF;
+  border: 1px solid #3872AC;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: left;
+  vertical-align: middle;
+}
+.fatalcontent
+{
+  background-color: #FFFFFF;
+  border: 1px solid #3872AC;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: left;
+  vertical-align: middle;
+}
+.fatalcontentfixed
+{
+  background-color: #FFFFFF;
+  border: 1px solid #3872AC;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Courier New', Courier, fixed;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: left;
+  vertical-align: middle;
+}
+.folderaction
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.footer
+{
+  background-color: #FAF3D4;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: center;
+  vertical-align: middle;
+}
+.footeremphasis
+{
+  background-color: #FAF3D4;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 9pt;
+  font-style: italic;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: center;
+  vertical-align: middle;
+}
+.footeremphasisfixed
+{
+  background-color: #FAF3D4;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: 'Courier New', Courier, fixed;
+  font-size: 9pt;
+  font-style: italic;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: center;
+  vertical-align: middle;
+}
+.footerempty
+{
+  background-color: #FAF3D4;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: center;
+  vertical-align: middle;
+}
+.footerfixed
+{
+  background-color: #FAF3D4;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: 'Courier New', Courier, fixed;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: center;
+  vertical-align: middle;
+}
+.footerstrong
+{
+  background-color: #FAF3D4;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: center;
+  vertical-align: middle;
+}
+.footerstrongfixed
+{
+  background-color: #FAF3D4;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: 'Courier New', Courier, fixed;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: center;
+  vertical-align: middle;
+}
+.frame
+{
+}
+.graph
+{
+  border: 1px solid #3872AC;
+}
+.graphcharts
+{
+  border: 1px solid #3872AC;
+}
+.graphcrumbtrail
+{
+  border: 0px solid #3872AC;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 8pt;
+  font-weight: normal;
+  padding: 5px;
+}
+.header
+{
+  background-color: #FAF3D4;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: center;
+  vertical-align: middle;
+}
+.headeremphasis
+{
+  background-color: #FAF3D4;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 9pt;
+  font-style: italic;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: center;
+  vertical-align: middle;
+}
+.headeremphasisfixed
+{
+  background-color: #FAF3D4;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: 'Courier New', Courier, fixed;
+  font-size: 9pt;
+  font-style: italic;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: center;
+  vertical-align: middle;
+}
+.headerempty
+{
+  background-color: #FAF3D4;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: center;
+  vertical-align: middle;
+}
+.headerfixed
+{
+  background-color: #FAF3D4;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: 'Courier New', Courier, fixed;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: center;
+  vertical-align: middle;
+}
+.headersandfooters
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.headerstrong
+{
+  background-color: #FAF3D4;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: center;
+  vertical-align: middle;
+}
+.headerstrongfixed
+{
+  background-color: #FAF3D4;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: 'Courier New', Courier, fixed;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: center;
+  vertical-align: middle;
+}
+.heading1
+{
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 16pt;
+  font-weight: bold;
+  padding: 0px;
+}
+.heading2
+{
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 14pt;
+  font-style: italic;
+  font-weight: bold;
+  padding: 0px;
+}
+.heading3
+{
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-weight: bold;
+  padding: 0px;
+}
+.indexaction
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.linecontent
+{
+  background-color: #FFFFFF;
+  border: 1px solid #3872AC;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: left;
+  vertical-align: middle;
+}
+.list
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.list10
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.list2
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.list3
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.list4
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.list5
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.list6
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.list7
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.list8
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.list9
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.listitem
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.listitem10
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.listitem2
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.listitem3
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.listitem4
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.listitem5
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.listitem6
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.listitem7
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.listitem8
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.listitem9
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.normaltext
+{
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-weight: bold;
+  padding: 0px;
+}
+.note
+{
+  background-color: #FFFFFF;
+  border: 1px solid #3872AC;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: left;
+  vertical-align: middle;
+}
+.notebanner
+{
+  background-color: #FFFFFF;
+  border: 1px solid #3872AC;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: left;
+  vertical-align: middle;
+}
+.notecontent
+{
+  background-color: #FFFFFF;
+  border: 1px solid #3872AC;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: left;
+  vertical-align: middle;
+}
+.notecontentfixed
+{
+  background-color: #FFFFFF;
+  border: 1px solid #3872AC;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Courier New', Courier, fixed;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: left;
+  vertical-align: middle;
+}
+.pagebreak
+{
+  height: 1em;
+}
+.pages
+{
+  background-color: #EEEAC1;
+  color: #000000;
+  list-style-type: decimal;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.pagesdate
+{
+  background-color: #FFFFFF;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+  width: 100%;
+}
+.pagesitem
+{
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 10pt;
+}
+.pagesproclabel
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.pagesprocname
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.pagestitle
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: italic;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.paragraph
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.parskip
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Trebuchet MS', Helvetica, Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+  padding: 5px;
+}
+.prepage
+{
+  background-color: #FFFFFF;
+  border: 1px solid #3872AC;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: left;
+  vertical-align: middle;
+}
+.proctitle
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 0px;
+}
+.proctitlefixed
+{
+  background-color: transparent;
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Courier New', Courier, fixed;
+  font-size: 12pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 0px;
+}
+.rowfooter
+{
+  background-color: #FAF3D4;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: left;
+  vertical-align: middle;
+}
+.rowfooteremphasis
+{
+  background-color: #FAF3D4;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 9pt;
+  font-style: italic;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: left;
+  vertical-align: middle;
+}
+.rowfooteremphasisfixed
+{
+  background-color: #FAF3D4;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: 'Courier New', Courier, fixed;
+  font-size: 9pt;
+  font-style: italic;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: left;
+  vertical-align: middle;
+}
+.rowfooterempty
+{
+  background-color: #FAF3D4;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: left;
+  vertical-align: middle;
+}
+.rowfooterfixed
+{
+  background-color: #FAF3D4;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: 'Courier New', Courier, fixed;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: left;
+  vertical-align: middle;
+}
+.rowfooterstrong
+{
+  background-color: #FAF3D4;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: left;
+  vertical-align: middle;
+}
+.rowfooterstrongfixed
+{
+  background-color: #FAF3D4;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: 'Courier New', Courier, fixed;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: left;
+  vertical-align: middle;
+}
+.rowheader
+{
+  background-color: #FAF3D4;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: left;
+  vertical-align: middle;
+}
+.rowheaderemphasis
+{
+  background-color: #FAF3D4;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 9pt;
+  font-style: italic;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: left;
+  vertical-align: middle;
+}
+.rowheaderemphasisfixed
+{
+  background-color: #FAF3D4;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: 'Courier New', Courier, fixed;
+  font-size: 9pt;
+  font-style: italic;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: left;
+  vertical-align: middle;
+}
+.rowheaderempty
+{
+  background-color: #FAF3D4;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: left;
+  vertical-align: middle;
+}
+.rowheaderfixed
+{
+  background-color: #FAF3D4;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: 'Courier New', Courier, fixed;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: left;
+  vertical-align: middle;
+}
+.rowheaderstrong
+{
+  background-color: #FAF3D4;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: left;
+  vertical-align: middle;
+}
+.rowheaderstrongfixed
+{
+  background-color: #FAF3D4;
+  border-bottom-width: 1px;
+  border-color: #AAC1D9;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: 'Courier New', Courier, fixed;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: left;
+  vertical-align: middle;
+}
+.systemfooter
+{
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  padding: 0px;
+}
+.systemfooter10
+{
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  padding: 0px;
+}
+.systemfooter2
+{
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  padding: 0px;
+}
+.systemfooter3
+{
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  padding: 0px;
+}
+.systemfooter4
+{
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  padding: 0px;
+}
+.systemfooter5
+{
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  padding: 0px;
+}
+.systemfooter6
+{
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  padding: 0px;
+}
+.systemfooter7
+{
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  padding: 0px;
+}
+.systemfooter8
+{
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  padding: 0px;
+}
+.systemfooter9
+{
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  padding: 0px;
+}
+.systemtitle
+{
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-weight: bold;
+  padding: 0px;
+}
+.systemtitle10
+{
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-weight: bold;
+  padding: 0px;
+}
+.systemtitle2
+{
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-weight: bold;
+  padding: 0px;
+}
+.systemtitle3
+{
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-weight: bold;
+  padding: 0px;
+}
+.systemtitle4
+{
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-weight: bold;
+  padding: 0px;
+}
+.systemtitle5
+{
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-weight: bold;
+  padding: 0px;
+}
+.systemtitle6
+{
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-weight: bold;
+  padding: 0px;
+}
+.systemtitle7
+{
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-weight: bold;
+  padding: 0px;
+}
+.systemtitle8
+{
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-weight: bold;
+  padding: 0px;
+}
+.systemtitle9
+{
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 12pt;
+  font-weight: bold;
+  padding: 0px;
+}
+.table
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #3872AC;
+  border-left-width: 2px;
+  border-right-width: 1px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 2px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  vertical-align: middle;
+}
+.top_stacked_value
+{
+  padding-bottom: 1px;
+  border: 0;
+}
+.middle_stacked_value
+{
+  padding-top: 1px;
+  padding-bottom: 1px;
+  border: 0;
+}
+.bottom_stacked_value
+{
+  padding-top: 1px;
+  border: 0;
+}
+.usertext
+{
+  background-color: #FFFFFF;
+  border: 1px solid #3872AC;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: left;
+  vertical-align: middle;
+}
+.warnbanner
+{
+  background-color: #FFFFFF;
+  border: 1px solid #3872AC;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: left;
+  vertical-align: middle;
+}
+.warncontent
+{
+  background-color: #FFFFFF;
+  border: 1px solid #3872AC;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', sans-serif;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: left;
+  vertical-align: middle;
+}
+.warncontentfixed
+{
+  background-color: #FFFFFF;
+  border: 1px solid #3872AC;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: 'Courier New', Courier, fixed;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  padding: 3px;
+  text-align: left;
+  vertical-align: middle;
+}
+.l {text-align: left }
+.c {text-align: center }
+.r {text-align: right }
+.d {text-align: right }
+.j {text-align: justify }
+.t {vertical-align: top }
+.m {vertical-align: middle }
+.b {vertical-align: bottom }
+TD, TH {vertical-align: top }
+.stacked_cell{padding: 0 }
+-->
+</style>
+<script language="javascript" type="text/javascript">
+<!-- 
+function startup(){
+
+}
+function shutdown(){
+
+}
+
+//-->
+</script>
+
+</head>
+<body onload="startup()" onunload="shutdown()" class="body">
+
+<script language="javascript" type="text/javascript">
+<!-- 
+var _info = navigator.userAgent
+var _ie = (_info.indexOf("MSIE") > 0
+          && _info.indexOf("Win") > 0
+          && _info.indexOf("Windows 3.1") < 0);
+var _ie64 = _info.indexOf("x64") > 0
+
+//-->
+</script>
+
+<div class="branch">
+<a name="IDX"></a>
+<table class="systitleandfootercontainer" width="100%" summary="Page Layout">
+<tr>
+<td class="c systemtitle" style=" font-weight: bold;">Roll Pictures on 02/20/2023 *VCU INTERNAL USE ONLY* shred after use</td>
+</tr>
+<tr>
+<td class="c systemtitle2" style=" font-weight: bold;">Term:  202320                                                          - DATA BASE THEORY                                                CMSC508                                                         001                                                             EG                                                              CMSC                                                           </td>
+</tr>
+<tr>
+<td class="c systemtitle3" style=" font-weight: bold;">(W) indicates that a student has withdrawn</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="1" summary="Procedure Report: Detailed and/or summarized report">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Mohammed</td>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Badreddin</td>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Benji</td>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Abigail</td>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Nicholas</td>
+</tr>
+<tr>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Al Darwish (he/him)<img alt="" src=" https://sasbimid2.vcu.edu/images/V01041968.jpg              "></td>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Alhabbal (he/him)<img alt="" src=" https://sasbimid2.vcu.edu/images/V00687190.jpg              "></td>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Ashwell<img alt="" src=" https://sasbimid2.vcu.edu/images/V00967061.jpg              "></td>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Baugher (she/her)<img alt="" src=" https://sasbimid2.vcu.edu/images/V00846133.jpg              "></td>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Bradford<img alt="" src=" https://sasbimid2.vcu.edu/images/V00945927.jpg              "></td>
+</tr>
+<tr>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Justin</td>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Ben</td>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Cassidy</td>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Brian</td>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Jordan</td>
+</tr>
+<tr>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Cheng (he/him)<img alt="" src=" https://sasbimid2.vcu.edu/images/V00942673.jpg              "></td>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Clark<img alt="" src=" https://sasbimid2.vcu.edu/images/V00981916.jpg              "></td>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Coates (he/him)<img alt="" src=" https://sasbimid2.vcu.edu/images/V00936021.jpg              "></td>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Dao (he/him)<img alt="" src=" https://sasbimid2.vcu.edu/images/V00924744.jpg              "></td>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Dube (he/him)<img alt="" src=" https://sasbimid2.vcu.edu/images/V00946473.jpg              "></td>
+</tr>
+<tr>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Max</td>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Ricardo</td>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Nathan</td>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Colin</td>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Garrett</td>
+</tr>
+<tr>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Fulgenzi (he/him)<img alt="" src=" https://sasbimid2.vcu.edu/images/V00960990.jpg              "></td>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Garriga Ramos<img alt="" src=" https://sasbimid2.vcu.edu/images/V00955444.jpg              "></td>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Goehring (he/him)<img alt="" src=" https://sasbimid2.vcu.edu/images/V00952142.jpg              "></td>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Graham (he/him)<img alt="" src=" https://sasbimid2.vcu.edu/images/V00922448.jpg              "></td>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Hagood<img alt="" src=" https://sasbimid2.vcu.edu/images/V00887988.jpg              "></td>
+</tr>
+<tr>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Aiman</td>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Anagha</td>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">John</td>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Zoraz</td>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Ahmad</td>
+</tr>
+<tr>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Hanif<img alt="" src=" https://sasbimid2.vcu.edu/images/V00957425.jpg              "></td>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Harer (she/her)<img alt="" src=" https://sasbimid2.vcu.edu/images/V00903183.jpg              "></td>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Harvey<img alt="" src=" https://sasbimid2.vcu.edu/images/V00911821.jpg              "></td>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Haseeb (he/him)<img alt="" src=" https://sasbimid2.vcu.edu/images/V00954823.jpg              "></td>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Hazelwood<img alt="" src=" https://sasbimid2.vcu.edu/images/V00943723.jpg              "></td>
+</tr>
+</tbody>
+</table>
+</div>
+<table class="systitleandfootercontainer" width="100%" summary="Page Layout">
+<tr>
+<td class="c systemfooter"><DIV STYLE="page-break-after: always;"><BR></DIV></td>
+</tr>
+</table><br>
+<a name="IDX1"></a>
+<table class="systitleandfootercontainer" width="100%" summary="Page Layout">
+<tr>
+<td class="c systemtitle" style=" font-weight: bold;">Roll Pictures on 02/20/2023 *VCU INTERNAL USE ONLY* shred after use</td>
+</tr>
+<tr>
+<td class="c systemtitle2" style=" font-weight: bold;">Term:  202320                                                          - DATA BASE THEORY                                                CMSC508                                                         001                                                             EG                                                              CMSC                                                           </td>
+</tr>
+<tr>
+<td class="c systemtitle3" style=" font-weight: bold;">(W) indicates that a student has withdrawn</td>
+</tr>
+</table><br>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="1" summary="Procedure Report: Detailed and/or summarized report">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Aislin</td>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Christian</td>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Justin</td>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Enes</td>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Wahaaj</td>
+</tr>
+<tr>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">John (she/her)<img alt="" src=" https://sasbimid2.vcu.edu/images/V00981254.jpg              "></td>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Jones<img alt="" src=" https://sasbimid2.vcu.edu/images/V00973514.jpg              "></td>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Jones (he/him)<img alt="" src=" https://sasbimid2.vcu.edu/images/V00887671.jpg              "></td>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Kalinsazlioglu<img alt="" src=" https://sasbimid2.vcu.edu/images/V01033974.jpg              "></td>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Khan<img alt="" src=" https://sasbimid2.vcu.edu/images/V00902479.jpg              "></td>
+</tr>
+<tr>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Victoria</td>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Mallika</td>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Bella</td>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Mandy</td>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Akhila</td>
+</tr>
+<tr>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Kimberlin<img alt="" src=" https://sasbimid2.vcu.edu/images/V00861836.jpg              "></td>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Lakshminarayan<img alt="" src=" https://sasbimid2.vcu.edu/images/V00955103.jpg              "></td>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Larkin<img alt="" src=" https://sasbimid2.vcu.edu/images/V00942918.jpg              "></td>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Lin<img alt="" src=" https://sasbimid2.vcu.edu/images/V00944047.jpg              "></td>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Mandalika<img alt="" src=" https://sasbimid2.vcu.edu/images/V00949163.jpg              "></td>
+</tr>
+<tr>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Yonathan</td>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Marcus</td>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Aneesh</td>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Thao Nguyen</td>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Mia</td>
+</tr>
+<tr>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Menberu (he/him)<img alt="" src=" https://sasbimid2.vcu.edu/images/V00947585.jpg              "></td>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Moore<img alt="" src=" https://sasbimid2.vcu.edu/images/V00999182.jpg              "></td>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Mussim (he/him)<img alt="" src=" https://sasbimid2.vcu.edu/images/V00912804.jpg              "></td>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Nguyen<img alt="" src=" https://sasbimid2.vcu.edu/images/V00999692.jpg              "></td>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Park<img alt="" src=" https://sasbimid2.vcu.edu/images/V00957459.jpg              "></td>
+</tr>
+<tr>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Rebecca</td>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Ryan</td>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Sajesh</td>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Satya</td>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Aaliyah</td>
+</tr>
+<tr>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Pham (she/her)<img alt="" src=" https://sasbimid2.vcu.edu/images/V00838528.jpg              "></td>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Romero<img alt="" src=" https://sasbimid2.vcu.edu/images/V00898679.jpg              "></td>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Sahoo<img alt="" src=" https://sasbimid2.vcu.edu/images/V00951057.jpg              "></td>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Shenoy<img alt="" src=" https://sasbimid2.vcu.edu/images/V00956488.jpg              "></td>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Souleyman<img alt="" src=" https://sasbimid2.vcu.edu/images/V00887437.jpg              "></td>
+</tr>
+</tbody>
+</table>
+</div>
+<table class="systitleandfootercontainer" width="100%" summary="Page Layout">
+<tr>
+<td class="c systemfooter"><DIV STYLE="page-break-after: always;"><BR></DIV></td>
+</tr>
+</table><br>
+<a name="IDX2"></a>
+<table class="systitleandfootercontainer" width="100%" summary="Page Layout">
+<tr>
+<td class="c systemtitle" style=" font-weight: bold;">Roll Pictures on 02/20/2023 *VCU INTERNAL USE ONLY* shred after use</td>
+</tr>
+<tr>
+<td class="c systemtitle2" style=" font-weight: bold;">Term:  202320                                                          - DATA BASE THEORY                                                CMSC508                                                         001                                                             EG                                                              CMSC                                                           </td>
+</tr>
+<tr>
+<td class="c systemtitle3" style=" font-weight: bold;">(W) indicates that a student has withdrawn</td>
+</tr>
+</table><br>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="1" summary="Procedure Report: Detailed and/or summarized report">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Dylan</td>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Dax</td>
+<td class="l data" style=" font-size: x-small; font-weight: bold;">Josiah</td>
+<td class="c data" style=" font-size: x-small; font-weight: bold;">&nbsp;</td>
+<td class="c data" style=" font-size: x-small; font-weight: bold;">&nbsp;</td>
+</tr>
+<tr>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Strahan<img alt="" src=" https://sasbimid2.vcu.edu/images/V00832020.jpg              "></td>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Wickland<img alt="" src=" https://sasbimid2.vcu.edu/images/V00833396.jpg              "></td>
+<td class="l data" style=" font-size: x-small; font-weight: bold; width: 1px;">Wilson<img alt="" src=" https://sasbimid2.vcu.edu/images/V00966969.jpg              "></td>
+<td class="c data" style=" font-size: x-small; font-weight: bold; width: 1px;">&nbsp;<img alt="" src="                                                             "></td>
+<td class="c data" style=" font-size: x-small; font-weight: bold; width: 1px;">&nbsp;<img alt="" src="                                                             "></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+<table class="systitleandfootercontainer" width="100%" summary="Page Layout">
+<tr>
+<td class="c systemfooter"><DIV STYLE="page-break-after: always;"><BR></DIV></td>
+</tr>
+</table><br>
+</div>
+<div class="branch">
+<a name="IDX3"></a>
+<table class="systitleandfootercontainer" width="100%" summary="Page Layout">
+<tr>
+<td class="c systemtitle">Total rows selected:           43</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="3" summary="Procedure Print: Data Set WORK.TODAYDATE">
+<colgroup>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="c m header" scope="col">Date Report Run</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="r data">20FEB2023</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+<table class="systitleandfootercontainer" width="100%" summary="Page Layout">
+<tr>
+<td class="c systemfooter"><DIV STYLE="page-break-after: always;"><BR></DIV></td>
+</tr>
+</table><br>
+</div>
+</body>
+</html>
