@@ -1,5 +1,5 @@
 .SILENT:
 
 all:
-	node index.js
+	node roster.js
 	

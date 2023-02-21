@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "roster": "./bin/index.js"
+    "roster": "./roster.js"
   },
   "dependencies": {
     "jsdom": "^21.1.0"
