@@ -1,21 +1,23 @@
 import React, {useState} from 'react';
-import { Pressable, StyleSheet, Text, View, Image } from 'react-native';
+import { Pressable, StyleSheet, Text, View, Image, Modal } from 'react-native';
 import { Card } from 'react-native-elements';
 
 import { globalStyles } from './GlobalStyles';
 
-
 var database = [
-{id:"1", name:"John Leonard",image:require("../assets/cartoonish.jpg")},
-{id:"2", name:"Mr. Krabs",image:require("../assets/mr-krabs.png")},
-{id:"3", name:"Spongebob Squarepants",image:require("../assets/spongebob-squarepants.png")}
+{id:"0", name:"John Leonard",image:require("../assets/cartoonish.jpg")},
+{id:"1", name:"Mr. Krabs",image:require("../assets/mr-krabs.png")},
+{id:"2", name:"Spongebob Squarepants",image:require("../assets/spongebob-squarepants.png")},
+{id:"3", name:"Patrick Star",image:require("../assets/patrick-star.png")},
+{id:"4", name:"Sandy Cheeks",image:require("../assets/sandy-cheeks.png")},
+{id:"5", name:"Squidward Tentacles",image:require("../assets/squidward-tentacles.png")}
 ];
 
 function MyButton( props ){
     return (
      <Pressable
         onPress={() => {
-          // setTimesPressed(current => current + 1);
+          props.onPressed();
         }}
         style={({pressed}) => [
           {
@@ -24,36 +26,64 @@ function MyButton( props ){
           globalStyles.wrapperCustom,
         ]}>
         {({pressed}) => (
-          <Text style={globalStyles.text}> {pressed ? 'Pressed!' : props.name }</Text>
+          <Text style={globalStyles.text}>{ props.name }</Text>
         )}
       </Pressable>        
     );
 }
 
+
+
 export function MyScreen() {
-    var id = 0;
 
-    const [timesPressed, setTimesPressed] = useState(0);
+    const [timesPressed, setTimesPressed ] = useState(0);
+    const [ imageId, setImageId ] = useState(0);
+    const [modalVisible, setModalVisible] = useState(false);
+    const [ guess, setGuess ] = useState( imageId );
 
-    let textLog = '';
-    if (timesPressed > 1) {
-      textLog = timesPressed + 'x onPress';
-    } else if (timesPressed > 0) {
-      textLog = 'onPress';
+    function DoMe( i ){
+
+      setGuess( i );
+      if (imageId==i){
+        setModalVisible( false );
+
+        setImageId( Math.floor(Math.random() * database.length ) );
+      } else {
+        setModalVisible( true );
+      }
     }
-  
-    var buttonNames = ["button1","button2","button3","button4"];
+
     return (
       <View style={globalStyles.container}>
         <Card>
-          <Image style={globalStyles.cartoon} source={database[id].image} />
+          <Image style={globalStyles.cartoon} source={database[imageId].image} />
         </Card>
 
-        <Text testID="pressable_press_console">{textLog}</Text>
-        <View style={{flex: 0, flexDirection:"row", flexWrap:"wrap"}}>
+        <Modal
+          animationType="slide"
+          transparent={true}
+          visible={modalVisible}
+          onRequestClose={() => {
+            Alert.alert('Modal has been closed.');
+            setModalVisible(!modalVisible);
+        }}>
+          <View style={globalStyles.centeredView}>
+            <View style={globalStyles.modalView}>
+              <Text style={globalStyles.modalText}>Sorry, {database[guess].name} is incorrect!</Text>
+              <Pressable
+                style={[globalStyles.button, globalStyles.buttonClose]}
+                onPress={() => {
+                   setModalVisible(!modalVisible);
+                } }>
+                <Text style={globalStyles.textStyle}>Try Again!</Text>
+              </Pressable>
+            </View>
+          </View>
+        </Modal>
+        <View style={{flex: 0, flexDirection:"row", flexWrap:"wrap",justifyContent:"center"}}>
             { database.map( (item)=>{
                 return (
-                <MyButton key={item.id} name={item.name} id={item.id} />
+                <MyButton onPressed={()=>DoMe( item.id )} key={item.id} name={item.name} id={item.id} />
                 );
             })}
         </View>
@@ -61,4 +91,3 @@ export function MyScreen() {
     );
   }
 
-  
