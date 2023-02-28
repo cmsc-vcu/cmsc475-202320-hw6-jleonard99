@@ -1,7 +1,9 @@
 
 import { StyleSheet, Text, View, Image } from 'react-native';
-import {styles} from '../GlobalStyles';
 import { Card } from 'react-native-elements';
+
+
+import { styles } from '../GlobalStyles';
 
 
 export function MyScreen() {
@@ -14,17 +16,4 @@ export function MyScreen() {
     </View>
   );
 }
-
-const styles = StyleSheet.create({
-    container: {
-      flex: 1,
-      backgroundColor: '#fff',
-      alignItems: 'center',
-      justifyContent: 'center',
-    },
-    imageStyle: {
-      width: 200,
-      height: 300
-    }
-  });
 

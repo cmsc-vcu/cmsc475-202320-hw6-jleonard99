@@ -6,9 +6,9 @@ import { globalStyles } from './GlobalStyles';
 
 
 var database = [
-{name:"John Leonard",image:require("../assets/cartoonish.jpg")},
-{name:"Mr. Krabs",image:require("../assets/mr-krabs.png")},
-{name:"Spongebob Squarepants",image:require("../assets/spongebob-squarepants.png")}
+{id:"1", name:"John Leonard",image:require("../assets/cartoonish.jpg")},
+{id:"2", name:"Mr. Krabs",image:require("../assets/mr-krabs.png")},
+{id:"3", name:"Spongebob Squarepants",image:require("../assets/spongebob-squarepants.png")}
 ];
 
 function MyButton( props ){
@@ -21,10 +21,10 @@ function MyButton( props ){
           {
             backgroundColor: pressed ? 'darkcyan' : 'cyan',
           },
-          styles.wrapperCustom,
+          globalStyles.wrapperCustom,
         ]}>
         {({pressed}) => (
-          <Text style={styles.text}> {pressed ? 'Pressed!' : props.name }</Text>
+          <Text style={globalStyles.text}> {pressed ? 'Pressed!' : props.name }</Text>
         )}
       </Pressable>        
     );
@@ -53,7 +53,7 @@ export function MyScreen() {
         <View style={{flex: 0, flexDirection:"row", flexWrap:"wrap"}}>
             { database.map( (item)=>{
                 return (
-                <MyButton name={item.name}/>
+                <MyButton key={item.id} name={item.name} id={item.id} />
                 );
             })}
         </View>
@@ -61,27 +61,4 @@ export function MyScreen() {
     );
   }
 
-  const styles = StyleSheet.create({
-    container: {
-      flex: 1,
-      justifyContent: 'center',
-    },
-    text: {
-      fontSize: 16,
-      textAlign: 'center'
-    },
-    wrapperCustom: {
-      borderRadius: 8,
-      padding: 6,
-      margin: 10,
-      width: 140
-    },
-    logBox: {
-      padding: 20,
-      margin: 10,
-      borderWidth: StyleSheet.hairlineWidth,
-      borderColor: '#f0f0f0',
-      backgroundColor: '#f9f9f9',
-    },
-  });
   

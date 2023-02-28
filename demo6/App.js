@@ -2,8 +2,8 @@ import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View, Image } from 'react-native';
 import { Card } from 'react-native-elements';
 
-import {styles} from 'GlobalStyles';
-import  { MyScreen } from "./pages/MyScreen"
+import { styles } from './GlobalStyles';
+import { MyScreen } from './pages/MyScreen';
 
 function MyScreen2() {
   return (
@@ -11,7 +11,7 @@ function MyScreen2() {
       <Card>
         <Image style={styles.imageStyle} source={require("./assets/spongebob.png")} />
       </Card>
-      <Text>MyScreen2</Text>
+      <Text>MyScreen 2</Text>
     </View>
   );
 }
