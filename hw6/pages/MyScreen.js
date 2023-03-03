@@ -5,8 +5,8 @@ import { Card } from 'react-native-elements';
 import { globalStyles } from './GlobalStyles';
 
 var database = [
-{id:"0", name:"John Leonard",image:require("../assets/cartoonish.jpg")},
-{id:"1", name:"Mr. Krabs",image:require("../assets/mr-krabs.png")},
+{id:"0", name:"John Leonard",image:require("../assets/cartoonish.jpg"),notes:"A brief bio of Dr. Leonard!"},
+{id:"1", name:"Mr. Krabs",image:require("../assets/mr-krabs.png"), notes:"He makes the best Krabby Patties!"},
 {id:"2", name:"Spongebob Squarepants",image:require("../assets/spongebob-squarepants.png")},
 {id:"3", name:"Patrick Star",image:require("../assets/patrick-star.png")},
 {id:"4", name:"Sandy Cheeks",image:require("../assets/sandy-cheeks.png")},
@@ -57,6 +57,7 @@ export function MyScreen() {
       <View style={globalStyles.container}>
         <Card>
           <Image style={globalStyles.cartoon} source={database[imageId].image} />
+          <Text>{database[imageId].notes}</Text>
         </Card>
 
         <Modal

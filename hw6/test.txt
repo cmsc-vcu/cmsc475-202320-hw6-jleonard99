@@ -1,0 +1,3986 @@
+Folder PATH listing for volume Windows
+Volume serial number is 282D-8770
+C:\USERS\JDLEONARD\PROJECTS\CMSC475-202320-HW6-JLEONARD99\HW6
++---.expo
++---assets
++---node_modules
+ª   +---.bin
+ª   +---@ampproject
+ª   ª   +---remapping
+ª   ª       +---dist
+ª   ª           +---types
+ª   +---@babel
+ª   ª   +---code-frame
+ª   ª   ª   +---lib
+ª   ª   +---compat-data
+ª   ª   ª   +---data
+ª   ª   +---core
+ª   ª   ª   +---lib
+ª   ª   ª   ª   +---config
+ª   ª   ª   ª   ª   +---files
+ª   ª   ª   ª   ª   +---helpers
+ª   ª   ª   ª   ª   +---validation
+ª   ª   ª   ª   +---errors
+ª   ª   ª   ª   +---gensync-utils
+ª   ª   ª   ª   +---parser
+ª   ª   ª   ª   ª   +---util
+ª   ª   ª   ª   +---tools
+ª   ª   ª   ª   +---transformation
+ª   ª   ª   ª   ª   +---file
+ª   ª   ª   ª   ª   +---util
+ª   ª   ª   ª   +---vendor
+ª   ª   ª   +---src
+ª   ª   ª       +---config
+ª   ª   ª           +---files
+ª   ª   +---generator
+ª   ª   ª   +---lib
+ª   ª   ª   ª   +---generators
+ª   ª   ª   ª   +---node
+ª   ª   ª   +---node_modules
+ª   ª   ª       +---@jridgewell
+ª   ª   ª           +---gen-mapping
+ª   ª   ª               +---dist
+ª   ª   ª               ª   +---types
+ª   ª   ª               +---src
+ª   ª   +---helper-annotate-as-pure
+ª   ª   ª   +---lib
+ª   ª   +---helper-builder-binary-assignment-operator-visitor
+ª   ª   ª   +---lib
+ª   ª   +---helper-compilation-targets
+ª   ª   ª   +---lib
+ª   ª   +---helper-create-class-features-plugin
+ª   ª   ª   +---lib
+ª   ª   +---helper-create-regexp-features-plugin
+ª   ª   ª   +---lib
+ª   ª   +---helper-define-polyfill-provider
+ª   ª   ª   +---esm
+ª   ª   ª   +---lib
+ª   ª   ª       +---browser
+ª   ª   ª       +---node
+ª   ª   ª       +---visitors
+ª   ª   +---helper-environment-visitor
+ª   ª   ª   +---lib
+ª   ª   +---helper-explode-assignable-expression
+ª   ª   ª   +---lib
+ª   ª   +---helper-function-name
+ª   ª   ª   +---lib
+ª   ª   +---helper-hoist-variables
+ª   ª   ª   +---lib
+ª   ª   +---helper-member-expression-to-functions
+ª   ª   ª   +---lib
+ª   ª   +---helper-module-imports
+ª   ª   ª   +---lib
+ª   ª   +---helper-module-transforms
+ª   ª   ª   +---lib
+ª   ª   +---helper-optimise-call-expression
+ª   ª   ª   +---lib
+ª   ª   +---helper-plugin-utils
+ª   ª   ª   +---lib
+ª   ª   +---helper-remap-async-to-generator
+ª   ª   ª   +---lib
+ª   ª   +---helper-replace-supers
+ª   ª   ª   +---lib
+ª   ª   +---helper-simple-access
+ª   ª   ª   +---lib
+ª   ª   +---helper-skip-transparent-expression-wrappers
+ª   ª   ª   +---lib
+ª   ª   +---helper-split-export-declaration
+ª   ª   ª   +---lib
+ª   ª   +---helper-string-parser
+ª   ª   ª   +---lib
+ª   ª   +---helper-validator-identifier
+ª   ª   ª   +---lib
+ª   ª   ª   +---scripts
+ª   ª   +---helper-validator-option
+ª   ª   ª   +---lib
+ª   ª   +---helper-wrap-function
+ª   ª   ª   +---lib
+ª   ª   +---helpers
+ª   ª   ª   +---lib
+ª   ª   ª   ª   +---helpers
+ª   ª   ª   +---scripts
+ª   ª   +---highlight
+ª   ª   ª   +---lib
+ª   ª   +---parser
+ª   ª   ª   +---bin
+ª   ª   ª   +---lib
+ª   ª   ª   +---typings
+ª   ª   +---plugin-bugfix-safari-id-destructuring-collision-in-function-expression
+ª   ª   ª   +---lib
+ª   ª   +---plugin-bugfix-v8-spread-parameters-in-optional-chaining
+ª   ª   ª   +---lib
+ª   ª   +---plugin-proposal-async-generator-functions
+ª   ª   ª   +---lib
+ª   ª   +---plugin-proposal-class-properties
+ª   ª   ª   +---lib
+ª   ª   +---plugin-proposal-class-static-block
+ª   ª   ª   +---lib
+ª   ª   +---plugin-proposal-decorators
+ª   ª   ª   +---lib
+ª   ª   +---plugin-proposal-dynamic-import
+ª   ª   ª   +---lib
+ª   ª   +---plugin-proposal-export-default-from
+ª   ª   ª   +---lib
+ª   ª   +---plugin-proposal-export-namespace-from
+ª   ª   ª   +---lib
+ª   ª   +---plugin-proposal-json-strings
+ª   ª   ª   +---lib
+ª   ª   +---plugin-proposal-logical-assignment-operators
+ª   ª   ª   +---lib
+ª   ª   +---plugin-proposal-nullish-coalescing-operator
+ª   ª   ª   +---lib
+ª   ª   +---plugin-proposal-numeric-separator
+ª   ª   ª   +---lib
+ª   ª   +---plugin-proposal-object-rest-spread
+ª   ª   ª   +---lib
+ª   ª   +---plugin-proposal-optional-catch-binding
+ª   ª   ª   +---lib
+ª   ª   +---plugin-proposal-optional-chaining
+ª   ª   ª   +---lib
+ª   ª   +---plugin-proposal-private-methods
+ª   ª   ª   +---lib
+ª   ª   +---plugin-proposal-private-property-in-object
+ª   ª   ª   +---lib
+ª   ª   +---plugin-proposal-unicode-property-regex
+ª   ª   ª   +---lib
+ª   ª   +---plugin-syntax-async-generators
+ª   ª   ª   +---lib
+ª   ª   +---plugin-syntax-class-properties
+ª   ª   ª   +---lib
+ª   ª   +---plugin-syntax-class-static-block
+ª   ª   ª   +---lib
+ª   ª   +---plugin-syntax-decorators
+ª   ª   ª   +---lib
+ª   ª   +---plugin-syntax-dynamic-import
+ª   ª   ª   +---lib
+ª   ª   +---plugin-syntax-export-default-from
+ª   ª   ª   +---lib
+ª   ª   +---plugin-syntax-export-namespace-from
+ª   ª   ª   +---lib
+ª   ª   +---plugin-syntax-flow
+ª   ª   ª   +---lib
+ª   ª   +---plugin-syntax-import-assertions
+ª   ª   ª   +---lib
+ª   ª   +---plugin-syntax-json-strings
+ª   ª   ª   +---lib
+ª   ª   +---plugin-syntax-jsx
+ª   ª   ª   +---lib
+ª   ª   +---plugin-syntax-logical-assignment-operators
+ª   ª   ª   +---lib
+ª   ª   +---plugin-syntax-nullish-coalescing-operator
+ª   ª   ª   +---lib
+ª   ª   +---plugin-syntax-numeric-separator
+ª   ª   ª   +---lib
+ª   ª   +---plugin-syntax-object-rest-spread
+ª   ª   ª   +---lib
+ª   ª   +---plugin-syntax-optional-catch-binding
+ª   ª   ª   +---lib
+ª   ª   +---plugin-syntax-optional-chaining
+ª   ª   ª   +---lib
+ª   ª   +---plugin-syntax-private-property-in-object
+ª   ª   ª   +---lib
+ª   ª   +---plugin-syntax-top-level-await
+ª   ª   ª   +---lib
+ª   ª   +---plugin-syntax-typescript
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-arrow-functions
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-async-to-generator
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-block-scoped-functions
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-block-scoping
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-classes
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-computed-properties
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-destructuring
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-dotall-regex
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-duplicate-keys
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-exponentiation-operator
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-flow-strip-types
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-for-of
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-function-name
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-literals
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-member-expression-literals
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-modules-amd
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-modules-commonjs
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-modules-systemjs
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-modules-umd
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-named-capturing-groups-regex
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-new-target
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-object-super
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-parameters
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-property-literals
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-react-display-name
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-react-jsx
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-react-jsx-self
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-react-jsx-source
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-regenerator
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-reserved-words
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-runtime
+ª   ª   ª   +---lib
+ª   ª   ª   ª   +---get-runtime-path
+ª   ª   ª   +---src
+ª   ª   ª       +---get-runtime-path
+ª   ª   +---plugin-transform-shorthand-properties
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-spread
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-sticky-regex
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-template-literals
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-typeof-symbol
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-typescript
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-unicode-escapes
+ª   ª   ª   +---lib
+ª   ª   +---plugin-transform-unicode-regex
+ª   ª   ª   +---lib
+ª   ª   +---preset-env
+ª   ª   ª   +---data
+ª   ª   ª   +---lib
+ª   ª   ª       +---polyfills
+ª   ª   +---preset-flow
+ª   ª   ª   +---lib
+ª   ª   +---preset-modules
+ª   ª   ª   +---lib
+ª   ª   ª   ª   +---plugins
+ª   ª   ª   ª       +---transform-async-arrows-in-class
+ª   ª   ª   ª       +---transform-edge-default-parameters
+ª   ª   ª   ª       +---transform-edge-function-name
+ª   ª   ª   ª       +---transform-jsx-spread
+ª   ª   ª   ª       +---transform-safari-block-shadowing
+ª   ª   ª   ª       +---transform-safari-for-shadowing
+ª   ª   ª   ª       +---transform-tagged-template-caching
+ª   ª   ª   +---src
+ª   ª   ª       +---plugins
+ª   ª   ª           +---transform-async-arrows-in-class
+ª   ª   ª           +---transform-edge-default-parameters
+ª   ª   ª           +---transform-edge-function-name
+ª   ª   ª           +---transform-jsx-spread
+ª   ª   ª           +---transform-safari-block-shadowing
+ª   ª   ª           +---transform-safari-for-shadowing
+ª   ª   ª           +---transform-tagged-template-caching
+ª   ª   +---preset-typescript
+ª   ª   ª   +---lib
+ª   ª   +---register
+ª   ª   ª   +---lib
+ª   ª   ª       +---worker
+ª   ª   +---regjsgen
+ª   ª   +---runtime
+ª   ª   ª   +---helpers
+ª   ª   ª   ª   +---esm
+ª   ª   ª   +---regenerator
+ª   ª   +---template
+ª   ª   ª   +---lib
+ª   ª   +---traverse
+ª   ª   ª   +---lib
+ª   ª   ª       +---path
+ª   ª   ª       ª   +---inference
+ª   ª   ª       ª   +---lib
+ª   ª   ª       +---scope
+ª   ª   ª           +---lib
+ª   ª   +---types
+ª   ª       +---lib
+ª   ª           +---asserts
+ª   ª           ª   +---generated
+ª   ª           +---ast-types
+ª   ª           ª   +---generated
+ª   ª           +---builders
+ª   ª           ª   +---flow
+ª   ª           ª   +---generated
+ª   ª           ª   +---react
+ª   ª           ª   +---typescript
+ª   ª           +---clone
+ª   ª           +---comments
+ª   ª           +---constants
+ª   ª           ª   +---generated
+ª   ª           +---converters
+ª   ª           +---definitions
+ª   ª           +---modifications
+ª   ª           ª   +---flow
+ª   ª           ª   +---typescript
+ª   ª           +---retrievers
+ª   ª           +---traverse
+ª   ª           +---utils
+ª   ª           ª   +---react
+ª   ª           +---validators
+ª   ª               +---generated
+ª   ª               +---react
+ª   +---@expo
+ª   ª   +---bunyan
+ª   ª   ª   +---lib
+ª   ª   ª   +---node_modules
+ª   ª   ª   ª   +---.bin
+ª   ª   ª   ª   +---uuid
+ª   ª   ª   ª       +---dist
+ª   ª   ª   ª           +---bin
+ª   ª   ª   ª           +---esm-browser
+ª   ª   ª   ª           +---esm-node
+ª   ª   ª   ª           +---umd
+ª   ª   ª   +---types
+ª   ª   +---cli
+ª   ª   ª   +---build
+ª   ª   ª   ª   +---bin
+ª   ª   ª   ª   +---src
+ª   ª   ª   ª       +---api
+ª   ª   ª   ª       ª   +---graphql
+ª   ª   ª   ª       ª   ª   +---queries
+ª   ª   ª   ª       ª   +---rest
+ª   ª   ª   ª       ª   ª   +---cache
+ª   ª   ª   ª       ª   +---user
+ª   ª   ª   ª       +---config
+ª   ª   ª   ª       +---customize
+ª   ª   ª   ª       +---export
+ª   ª   ª   ª       ª   +---web
+ª   ª   ª   ª       +---install
+ª   ª   ª   ª       ª   +---utils
+ª   ª   ª   ª       +---login
+ª   ª   ª   ª       +---logout
+ª   ª   ª   ª       +---prebuild
+ª   ª   ª   ª       +---register
+ª   ª   ª   ª       +---run
+ª   ª   ª   ª       ª   +---android
+ª   ª   ª   ª       ª   +---ios
+ª   ª   ª   ª       ª       +---appleDevice
+ª   ª   ª   ª       ª       ª   +---client
+ª   ª   ª   ª       ª       ª   +---protocol
+ª   ª   ª   ª       ª       +---codeSigning
+ª   ª   ª   ª       ª       +---options
+ª   ª   ª   ª       +---start
+ª   ª   ª   ª       ª   +---doctor
+ª   ª   ª   ª       ª   ª   +---apple
+ª   ª   ª   ª       ª   ª   +---dependencies
+ª   ª   ª   ª       ª   ª   +---ngrok
+ª   ª   ª   ª       ª   ª   +---typescript
+ª   ª   ª   ª       ª   ª   +---web
+ª   ª   ª   ª       ª   +---interface
+ª   ª   ª   ª       ª   +---platforms
+ª   ª   ª   ª       ª   ª   +---android
+ª   ª   ª   ª       ª   ª   +---ios
+ª   ª   ª   ª       ª   +---project
+ª   ª   ª   ª       ª   +---server
+ª   ª   ª   ª       ª       +---metro
+ª   ª   ª   ª       ª       +---middleware
+ª   ª   ª   ª       ª       +---webpack
+ª   ª   ª   ª       +---utils
+ª   ª   ª   ª       ª   +---analytics
+ª   ª   ª   ª       +---whoami
+ª   ª   ª   +---node_modules
+ª   ª   ª   ª   +---ansi-styles
+ª   ª   ª   ª   +---chalk
+ª   ª   ª   ª   ª   +---source
+ª   ª   ª   ª   +---color-convert
+ª   ª   ª   ª   +---color-name
+ª   ª   ª   ª   +---has-flag
+ª   ª   ª   ª   +---supports-color
+ª   ª   ª   +---static
+ª   ª   ª       +---loading-page
+ª   ª   ª       +---template
+ª   ª   +---code-signing-certificates
+ª   ª   ª   +---build
+ª   ª   ª       +---__tests__
+ª   ª   +---config
+ª   ª   ª   +---build
+ª   ª   ª   ª   +---paths
+ª   ª   ª   ª   +---plugins
+ª   ª   ª   +---node_modules
+ª   ª   ª   ª   +---.bin
+ª   ª   ª   ª   +---@babel
+ª   ª   ª   ª   ª   +---code-frame
+ª   ª   ª   ª   ª       +---lib
+ª   ª   ª   ª   +---@expo
+ª   ª   ª   ª   ª   +---json-file
+ª   ª   ª   ª   ª       +---build
+ª   ª   ª   ª   +---json5
+ª   ª   ª   ª   ª   +---dist
+ª   ª   ª   ª   ª   +---lib
+ª   ª   ª   ª   +---semver
+ª   ª   ª   ª       +---bin
+ª   ª   ª   ª       +---classes
+ª   ª   ª   ª       +---functions
+ª   ª   ª   ª       +---internal
+ª   ª   ª   ª       +---ranges
+ª   ª   ª   +---paths
+ª   ª   +---config-plugins
+ª   ª   ª   +---build
+ª   ª   ª   ª   +---android
+ª   ª   ª   ª   +---ios
+ª   ª   ª   ª   ª   +---utils
+ª   ª   ª   ª   +---plugins
+ª   ª   ª   ª   +---utils
+ª   ª   ª   +---node_modules
+ª   ª   ª       +---.bin
+ª   ª   ª       +---@babel
+ª   ª   ª       ª   +---code-frame
+ª   ª   ª       ª       +---lib
+ª   ª   ª       +---@expo
+ª   ª   ª       ª   +---json-file
+ª   ª   ª       ª       +---build
+ª   ª   ª       +---ansi-styles
+ª   ª   ª       +---chalk
+ª   ª   ª       ª   +---source
+ª   ª   ª       +---color-convert
+ª   ª   ª       +---color-name
+ª   ª   ª       +---has-flag
+ª   ª   ª       +---json5
+ª   ª   ª       ª   +---dist
+ª   ª   ª       ª   +---lib
+ª   ª   ª       +---lru-cache
+ª   ª   ª       +---semver
+ª   ª   ª       ª   +---bin
+ª   ª   ª       ª   +---classes
+ª   ª   ª       ª   +---functions
+ª   ª   ª       ª   +---internal
+ª   ª   ª       ª   +---ranges
+ª   ª   ª       +---supports-color
+ª   ª   ª       +---yallist
+ª   ª   +---config-types
+ª   ª   ª   +---build
+ª   ª   +---dev-server
+ª   ª   ª   +---build
+ª   ª   ª   ª   +---metro
+ª   ª   ª   ª   +---middleware
+ª   ª   ª   +---node_modules
+ª   ª   ª       +---.bin
+ª   ª   ª       +---ansi-styles
+ª   ª   ª       +---chalk
+ª   ª   ª       ª   +---source
+ª   ª   ª       +---color-convert
+ª   ª   ª       +---color-name
+ª   ª   ª       +---fs-extra
+ª   ª   ª       ª   +---lib
+ª   ª   ª       ª       +---copy
+ª   ª   ª       ª       +---copy-sync
+ª   ª   ª       ª       +---empty
+ª   ª   ª       ª       +---ensure
+ª   ª   ª       ª       +---fs
+ª   ª   ª       ª       +---json
+ª   ª   ª       ª       +---mkdirs
+ª   ª   ª       ª       +---move
+ª   ª   ª       ª       +---move-sync
+ª   ª   ª       ª       +---output
+ª   ª   ª       ª       +---path-exists
+ª   ª   ª       ª       +---remove
+ª   ª   ª       ª       +---util
+ª   ª   ª       +---has-flag
+ª   ª   ª       +---jsonfile
+ª   ª   ª       ª   +---node_modules
+ª   ª   ª       ª       +---universalify
+ª   ª   ª       +---semver
+ª   ª   ª       ª   +---bin
+ª   ª   ª       ª   +---classes
+ª   ª   ª       ª   +---functions
+ª   ª   ª       ª   +---internal
+ª   ª   ª       ª   +---ranges
+ª   ª   ª       +---supports-color
+ª   ª   ª       +---universalify
+ª   ª   +---devcert
+ª   ª   ª   +---dist
+ª   ª   ª   ª   +---platforms
+ª   ª   ª   +---node_modules
+ª   ª   ª   ª   +---debug
+ª   ª   ª   ª       +---src
+ª   ª   ª   +---openssl-configurations
+ª   ª   ª   +---src
+ª   ª   ª       +---platforms
+ª   ª   +---image-utils
+ª   ª   ª   +---build
+ª   ª   ª   +---node_modules
+ª   ª   ª       +---.bin
+ª   ª   ª       +---ansi-styles
+ª   ª   ª       +---chalk
+ª   ª   ª       ª   +---source
+ª   ª   ª       +---color-convert
+ª   ª   ª       +---color-name
+ª   ª   ª       +---crypto-random-string
+ª   ª   ª       +---fs-extra
+ª   ª   ª       ª   +---lib
+ª   ª   ª       ª       +---copy
+ª   ª   ª       ª       +---copy-sync
+ª   ª   ª       ª       +---empty
+ª   ª   ª       ª       +---ensure
+ª   ª   ª       ª       +---fs
+ª   ª   ª       ª       +---json
+ª   ª   ª       ª       +---mkdirs
+ª   ª   ª       ª       +---move
+ª   ª   ª       ª       +---move-sync
+ª   ª   ª       ª       +---output
+ª   ª   ª       ª       +---path-exists
+ª   ª   ª       ª       +---remove
+ª   ª   ª       ª       +---util
+ª   ª   ª       +---has-flag
+ª   ª   ª       +---jsonfile
+ª   ª   ª       ª   +---node_modules
+ª   ª   ª       ª       +---universalify
+ª   ª   ª       +---semver
+ª   ª   ª       ª   +---bin
+ª   ª   ª       ª   +---classes
+ª   ª   ª       ª   +---functions
+ª   ª   ª       ª   +---internal
+ª   ª   ª       ª   +---ranges
+ª   ª   ª       +---supports-color
+ª   ª   ª       +---temp-dir
+ª   ª   ª       +---tempy
+ª   ª   ª       +---type-fest
+ª   ª   ª       ª   +---source
+ª   ª   ª       +---unique-string
+ª   ª   ª       +---universalify
+ª   ª   +---json-file
+ª   ª   ª   +---build
+ª   ª   ª   +---node_modules
+ª   ª   ª       +---@babel
+ª   ª   ª           +---code-frame
+ª   ª   ª               +---lib
+ª   ª   +---metro-config
+ª   ª   ª   +---build
+ª   ª   ª   ª   +---transformer
+ª   ª   ª   +---node_modules
+ª   ª   ª   ª   +---.bin
+ª   ª   ª   ª   +---@babel
+ª   ª   ª   ª   ª   +---code-frame
+ª   ª   ª   ª   ª       +---lib
+ª   ª   ª   ª   +---@expo
+ª   ª   ª   ª   ª   +---json-file
+ª   ª   ª   ª   ª       +---build
+ª   ª   ª   ª   +---ansi-styles
+ª   ª   ª   ª   +---chalk
+ª   ª   ª   ª   ª   +---source
+ª   ª   ª   ª   +---color-convert
+ª   ª   ª   ª   +---color-name
+ª   ª   ª   ª   +---has-flag
+ª   ª   ª   ª   +---json5
+ª   ª   ª   ª   ª   +---dist
+ª   ª   ª   ª   ª   +---lib
+ª   ª   ª   ª   +---supports-color
+ª   ª   ª   +---transformer
+ª   ª   +---osascript
+ª   ª   ª   +---build
+ª   ª   +---package-manager
+ª   ª   ª   +---build
+ª   ª   ª   ª   +---utils
+ª   ª   ª   +---node_modules
+ª   ª   ª       +---.bin
+ª   ª   ª       +---@babel
+ª   ª   ª       ª   +---code-frame
+ª   ª   ª       ª       +---lib
+ª   ª   ª       +---@expo
+ª   ª   ª       ª   +---json-file
+ª   ª   ª       ª       +---build
+ª   ª   ª       +---ansi-styles
+ª   ª   ª       +---chalk
+ª   ª   ª       ª   +---source
+ª   ª   ª       +---color-convert
+ª   ª   ª       +---color-name
+ª   ª   ª       +---has-flag
+ª   ª   ª       +---json5
+ª   ª   ª       ª   +---dist
+ª   ª   ª       ª   +---lib
+ª   ª   ª       +---rimraf
+ª   ª   ª       +---sudo-prompt
+ª   ª   ª       +---supports-color
+ª   ª   +---plist
+ª   ª   ª   +---build
+ª   ª   +---prebuild-config
+ª   ª   ª   +---build
+ª   ª   ª   ª   +---plugins
+ª   ª   ª   ª       +---icons
+ª   ª   ª   ª       +---unversioned
+ª   ª   ª   ª           +---expo-ads-admob
+ª   ª   ª   ª           +---expo-branch
+ª   ª   ª   ª           +---expo-facebook
+ª   ª   ª   ª           +---expo-navigation-bar
+ª   ª   ª   ª           +---expo-notifications
+ª   ª   ª   ª           +---expo-splash-screen
+ª   ª   ª   ª           +---expo-system-ui
+ª   ª   ª   +---node_modules
+ª   ª   ª       +---.bin
+ª   ª   ª       +---@babel
+ª   ª   ª       ª   +---code-frame
+ª   ª   ª       ª       +---lib
+ª   ª   ª       +---@expo
+ª   ª   ª       ª   +---json-file
+ª   ª   ª       ª       +---build
+ª   ª   ª       +---fs-extra
+ª   ª   ª       ª   +---lib
+ª   ª   ª       ª       +---copy
+ª   ª   ª       ª       +---copy-sync
+ª   ª   ª       ª       +---empty
+ª   ª   ª       ª       +---ensure
+ª   ª   ª       ª       +---fs
+ª   ª   ª       ª       +---json
+ª   ª   ª       ª       +---mkdirs
+ª   ª   ª       ª       +---move
+ª   ª   ª       ª       +---move-sync
+ª   ª   ª       ª       +---output
+ª   ª   ª       ª       +---path-exists
+ª   ª   ª       ª       +---remove
+ª   ª   ª       ª       +---util
+ª   ª   ª       +---json5
+ª   ª   ª       ª   +---dist
+ª   ª   ª       ª   +---lib
+ª   ª   ª       +---jsonfile
+ª   ª   ª       +---semver
+ª   ª   ª       ª   +---bin
+ª   ª   ª       ª   +---classes
+ª   ª   ª       ª   +---functions
+ª   ª   ª       ª   +---internal
+ª   ª   ª       ª   +---ranges
+ª   ª   ª       +---universalify
+ª   ª   +---rudder-sdk-node
+ª   ª   ª   +---node_modules
+ª   ª   ª       +---.bin
+ª   ª   ª       +---uuid
+ª   ª   ª           +---dist
+ª   ª   ª               +---bin
+ª   ª   ª               +---esm-browser
+ª   ª   ª               +---esm-node
+ª   ª   ª               +---umd
+ª   ª   +---sdk-runtime-versions
+ª   ª   ª   +---build
+ª   ª   ª       +---__tests__
+ª   ª   +---spawn-async
+ª   ª   ª   +---build
+ª   ª   ª       +---__tests__
+ª   ª   +---vector-icons
+ª   ª   ª   +---build
+ª   ª   ª       +---vendor
+ª   ª   ª           +---react-native-vector-icons
+ª   ª   ª               +---bin
+ª   ª   ª               +---Fonts
+ª   ª   ª               +---glyphmaps
+ª   ª   ª               +---lib
+ª   ª   ª               +---templates
+ª   ª   +---xcpretty
+ª   ª       +---build
+ª   ª       ª   +---utils
+ª   ª       +---node_modules
+ª   ª           +---.bin
+ª   ª           +---@babel
+ª   ª           ª   +---code-frame
+ª   ª           ª       +---lib
+ª   ª           +---ansi-styles
+ª   ª           +---argparse
+ª   ª           ª   +---lib
+ª   ª           +---chalk
+ª   ª           ª   +---source
+ª   ª           +---color-convert
+ª   ª           +---color-name
+ª   ª           +---has-flag
+ª   ª           +---js-yaml
+ª   ª           ª   +---bin
+ª   ª           ª   +---dist
+ª   ª           ª   +---lib
+ª   ª           ª       +---schema
+ª   ª           ª       +---type
+ª   ª           +---supports-color
+ª   +---@gar
+ª   ª   +---promisify
+ª   +---@graphql-typed-document-node
+ª   ª   +---core
+ª   ª       +---dist
+ª   ª       +---src
+ª   +---@hapi
+ª   ª   +---address
+ª   ª   ª   +---dist
+ª   ª   ª   +---esm
+ª   ª   ª   +---src
+ª   ª   +---formula
+ª   ª   ª   +---lib
+ª   ª   +---hoek
+ª   ª   ª   +---lib
+ª   ª   +---pinpoint
+ª   ª   ª   +---lib
+ª   ª   +---tlds
+ª   ª   ª   +---dist
+ª   ª   ª   +---esm
+ª   ª   ª   +---src
+ª   ª   +---topo
+ª   ª       +---lib
+ª   +---@jest
+ª   ª   +---create-cache-key-function
+ª   ª   ª   +---build
+ª   ª   ª   +---node_modules
+ª   ª   ª       +---@jest
+ª   ª   ª       ª   +---types
+ª   ª   ª       ª       +---build
+ª   ª   ª       +---@types
+ª   ª   ª       ª   +---yargs
+ª   ª   ª       +---ansi-styles
+ª   ª   ª       +---chalk
+ª   ª   ª       ª   +---source
+ª   ª   ª       +---color-convert
+ª   ª   ª       +---color-name
+ª   ª   ª       +---has-flag
+ª   ª   ª       +---supports-color
+ª   ª   +---schemas
+ª   ª   ª   +---build
+ª   ª   +---types
+ª   ª       +---build
+ª   ª       +---node_modules
+ª   ª           +---ansi-styles
+ª   ª           +---chalk
+ª   ª           ª   +---source
+ª   ª           +---color-convert
+ª   ª           +---color-name
+ª   ª           +---has-flag
+ª   ª           +---supports-color
+ª   +---@jridgewell
+ª   ª   +---gen-mapping
+ª   ª   ª   +---dist
+ª   ª   ª       +---types
+ª   ª   +---resolve-uri
+ª   ª   ª   +---dist
+ª   ª   ª       +---types
+ª   ª   +---set-array
+ª   ª   ª   +---dist
+ª   ª   ª   ª   +---types
+ª   ª   ª   +---src
+ª   ª   +---sourcemap-codec
+ª   ª   ª   +---dist
+ª   ª   ª   ª   +---types
+ª   ª   ª   +---src
+ª   ª   +---trace-mapping
+ª   ª       +---dist
+ª   ª           +---types
+ª   +---@nodelib
+ª   ª   +---fs.scandir
+ª   ª   ª   +---out
+ª   ª   ª       +---adapters
+ª   ª   ª       +---providers
+ª   ª   ª       +---types
+ª   ª   ª       +---utils
+ª   ª   +---fs.stat
+ª   ª   ª   +---out
+ª   ª   ª       +---adapters
+ª   ª   ª       +---providers
+ª   ª   ª       +---types
+ª   ª   +---fs.walk
+ª   ª       +---out
+ª   ª           +---providers
+ª   ª           +---readers
+ª   ª           +---types
+ª   +---@npmcli
+ª   ª   +---fs
+ª   ª   ª   +---lib
+ª   ª   ª   ª   +---common
+ª   ª   ª   ª   ª   +---file-url-to-path
+ª   ª   ª   ª   +---cp
+ª   ª   ª   ª   +---mkdir
+ª   ª   ª   ª   +---rm
+ª   ª   ª   +---node_modules
+ª   ª   ª       +---.bin
+ª   ª   ª       +---lru-cache
+ª   ª   ª       +---semver
+ª   ª   ª       ª   +---bin
+ª   ª   ª       ª   +---classes
+ª   ª   ª       ª   +---functions
+ª   ª   ª       ª   +---internal
+ª   ª   ª       ª   +---ranges
+ª   ª   ª       +---yallist
+ª   ª   +---move-file
+ª   ª       +---node_modules
+ª   ª           +---.bin
+ª   ª           +---mkdirp
+ª   ª           ª   +---bin
+ª   ª           ª   +---lib
+ª   ª           +---rimraf
+ª   +---@react-native
+ª   ª   +---assets
+ª   ª   +---normalize-color
+ª   ª   +---polyfills
+ª   +---@react-native-community
+ª   ª   +---cli
+ª   ª   ª   +---build
+ª   ª   ª   ª   +---commands
+ª   ª   ª   ª   ª   +---init
+ª   ª   ª   ª   ª   ª   +---errors
+ª   ª   ª   ª   ª   +---upgrade
+ª   ª   ª   ª   ª       +---__mocks__
+ª   ª   ª   ª   ª           +---@react-native-community
+ª   ª   ª   ª   +---tools
+ª   ª   ª   +---node_modules
+ª   ª   ª       +---ansi-styles
+ª   ª   ª       +---chalk
+ª   ª   ª       ª   +---source
+ª   ª   ª       +---color-convert
+ª   ª   ª       +---color-name
+ª   ª   ª       +---commander
+ª   ª   ª       ª   +---lib
+ª   ª   ª       ª   +---typings
+ª   ª   ª       +---find-up
+ª   ª   ª       +---has-flag
+ª   ª   ª       +---locate-path
+ª   ª   ª       +---p-limit
+ª   ª   ª       +---p-locate
+ª   ª   ª       +---path-exists
+ª   ª   ª       +---supports-color
+ª   ª   +---cli-clean
+ª   ª   ª   +---build
+ª   ª   ª   +---node_modules
+ª   ª   ª       +---ansi-styles
+ª   ª   ª       +---chalk
+ª   ª   ª       ª   +---source
+ª   ª   ª       +---color-convert
+ª   ª   ª       +---color-name
+ª   ª   ª       +---has-flag
+ª   ª   ª       +---supports-color
+ª   ª   +---cli-config
+ª   ª   ª   +---build
+ª   ª   ª       +---commands
+ª   ª   +---cli-debugger-ui
+ª   ª   ª   +---build
+ª   ª   ª       +---middleware
+ª   ª   ª       +---ui
+ª   ª   ª           +---assets
+ª   ª   +---cli-doctor
+ª   ª   ª   +---build
+ª   ª   ª   ª   +---commands
+ª   ª   ª   ª   +---tools
+ª   ª   ª   ª       +---healthchecks
+ª   ª   ª   ª       +---windows
+ª   ª   ª   +---node_modules
+ª   ª   ª       +---@react-native-community
+ª   ª   ª       ª   +---cli-platform-ios
+ª   ª   ª       ª       +---build
+ª   ª   ª       ª           +---commands
+ª   ª   ª       ª           ª   +---logIOS
+ª   ª   ª       ª           ª   +---runIOS
+ª   ª   ª       ª           +---config
+ª   ª   ª       ª               +---__fixtures__
+ª   ª   ª       +---ansi-styles
+ª   ª   ª       +---chalk
+ª   ª   ª       ª   +---source
+ª   ª   ª       +---cli-cursor
+ª   ª   ª       +---color-convert
+ª   ª   ª       +---color-name
+ª   ª   ª       +---has-flag
+ª   ª   ª       +---log-symbols
+ª   ª   ª       +---mimic-fn
+ª   ª   ª       +---onetime
+ª   ª   ª       +---ora
+ª   ª   ª       ª   +---node_modules
+ª   ª   ª       ª       +---strip-ansi
+ª   ª   ª       +---restore-cursor
+ª   ª   ª       +---sudo-prompt
+ª   ª   ª       +---supports-color
+ª   ª   +---cli-hermes
+ª   ª   ª   +---build
+ª   ª   ª   ª   +---profileHermes
+ª   ª   ª   +---node_modules
+ª   ª   ª       +---@react-native-community
+ª   ª   ª       ª   +---cli-platform-android
+ª   ª   ª       ª       +---build
+ª   ª   ª       ª           +---commands
+ª   ª   ª       ª           ª   +---logAndroid
+ª   ª   ª       ª           ª   +---runAndroid
+ª   ª   ª       ª           ª       +---__mocks__
+ª   ª   ª       ª           +---config
+ª   ª   ª       ª               +---__fixtures__
+ª   ª   ª       +---ansi-styles
+ª   ª   ª       +---chalk
+ª   ª   ª       ª   +---source
+ª   ª   ª       +---color-convert
+ª   ª   ª       +---color-name
+ª   ª   ª       +---has-flag
+ª   ª   ª       +---supports-color
+ª   ª   +---cli-platform-android
+ª   ª   ª   +---build
+ª   ª   ª   ª   +---commands
+ª   ª   ª   ª   ª   +---logAndroid
+ª   ª   ª   ª   ª   +---runAndroid
+ª   ª   ª   ª   ª       +---__mocks__
+ª   ª   ª   ª   +---config
+ª   ª   ª   ª       +---__fixtures__
+ª   ª   ª   +---node_modules
+ª   ª   ª       +---ansi-styles
+ª   ª   ª       +---chalk
+ª   ª   ª       ª   +---source
+ª   ª   ª       +---color-convert
+ª   ª   ª       +---color-name
+ª   ª   ª       +---has-flag
+ª   ª   ª       +---supports-color
+ª   ª   +---cli-platform-ios
+ª   ª   ª   +---build
+ª   ª   ª   ª   +---commands
+ª   ª   ª   ª   ª   +---logIOS
+ª   ª   ª   ª   ª   +---runIOS
+ª   ª   ª   ª   +---config
+ª   ª   ª   ª       +---__fixtures__
+ª   ª   ª   +---node_modules
+ª   ª   ª       +---ansi-styles
+ª   ª   ª       +---chalk
+ª   ª   ª       ª   +---source
+ª   ª   ª       +---cli-cursor
+ª   ª   ª       +---color-convert
+ª   ª   ª       +---color-name
+ª   ª   ª       +---has-flag
+ª   ª   ª       +---log-symbols
+ª   ª   ª       +---mimic-fn
+ª   ª   ª       +---onetime
+ª   ª   ª       +---ora
+ª   ª   ª       +---restore-cursor
+ª   ª   ª       +---strip-ansi
+ª   ª   ª       +---supports-color
+ª   ª   +---cli-plugin-metro
+ª   ª   ª   +---build
+ª   ª   ª   ª   +---commands
+ª   ª   ª   ª   ª   +---bundle
+ª   ª   ª   ª   ª   +---start
+ª   ª   ª   ª   +---tools
+ª   ª   ª   +---node_modules
+ª   ª   ª       +---ansi-styles
+ª   ª   ª       +---chalk
+ª   ª   ª       ª   +---source
+ª   ª   ª       +---color-convert
+ª   ª   ª       +---color-name
+ª   ª   ª       +---has-flag
+ª   ª   ª       +---supports-color
+ª   ª   +---cli-server-api
+ª   ª   ª   +---build
+ª   ª   ª   ª   +---websocket
+ª   ª   ª   +---node_modules
+ª   ª   ª       +---ws
+ª   ª   ª           +---lib
+ª   ª   +---cli-tools
+ª   ª   ª   +---build
+ª   ª   ª   ª   +---releaseChecker
+ª   ª   ª   +---node_modules
+ª   ª   ª       +---ansi-styles
+ª   ª   ª       +---chalk
+ª   ª   ª       ª   +---source
+ª   ª   ª       +---cli-cursor
+ª   ª   ª       +---color-convert
+ª   ª   ª       +---color-name
+ª   ª   ª       +---has-flag
+ª   ª   ª       +---is-wsl
+ª   ª   ª       +---log-symbols
+ª   ª   ª       +---mimic-fn
+ª   ª   ª       +---onetime
+ª   ª   ª       +---open
+ª   ª   ª       +---ora
+ª   ª   ª       +---restore-cursor
+ª   ª   ª       +---strip-ansi
+ª   ª   ª       +---supports-color
+ª   ª   +---cli-types
+ª   ª       +---build
+ª   +---@react-navigation
+ª   ª   +---bottom-tabs
+ª   ª   ª   +---lib
+ª   ª   ª   ª   +---commonjs
+ª   ª   ª   ª   ª   +---navigators
+ª   ª   ª   ª   ª   +---utils
+ª   ª   ª   ª   ª   +---views
+ª   ª   ª   ª   +---module
+ª   ª   ª   ª   ª   +---navigators
+ª   ª   ª   ª   ª   +---utils
+ª   ª   ª   ª   ª   +---views
+ª   ª   ª   ª   +---typescript
+ª   ª   ª   ª       +---src
+ª   ª   ª   ª           +---navigators
+ª   ª   ª   ª           +---utils
+ª   ª   ª   ª           +---views
+ª   ª   ª   +---node_modules
+ª   ª   ª   ª   +---color
+ª   ª   ª   ª   +---color-convert
+ª   ª   ª   ª   +---color-name
+ª   ª   ª   +---src
+ª   ª   ª       +---navigators
+ª   ª   ª       +---utils
+ª   ª   ª       +---views
+ª   ª   +---core
+ª   ª   ª   +---lib
+ª   ª   ª   ª   +---commonjs
+ª   ª   ª   ª   +---module
+ª   ª   ª   ª   +---typescript
+ª   ª   ª   ª       +---src
+ª   ª   ª   +---node_modules
+ª   ª   ª   ª   +---escape-string-regexp
+ª   ª   ª   ª   +---react-is
+ª   ª   ª   ª       +---cjs
+ª   ª   ª   ª       +---umd
+ª   ª   ª   +---src
+ª   ª   +---elements
+ª   ª   ª   +---lib
+ª   ª   ª   ª   +---commonjs
+ª   ª   ª   ª   ª   +---assets
+ª   ª   ª   ª   ª   +---Header
+ª   ª   ª   ª   +---module
+ª   ª   ª   ª   ª   +---assets
+ª   ª   ª   ª   ª   +---Header
+ª   ª   ª   ª   +---typescript
+ª   ª   ª   ª       +---src
+ª   ª   ª   ª           +---Header
+ª   ª   ª   +---src
+ª   ª   ª       +---assets
+ª   ª   ª       +---Header
+ª   ª   +---native
+ª   ª   ª   +---lib
+ª   ª   ª   ª   +---commonjs
+ª   ª   ª   ª   ª   +---theming
+ª   ª   ª   ª   +---module
+ª   ª   ª   ª   ª   +---theming
+ª   ª   ª   ª   +---typescript
+ª   ª   ª   ª       +---src
+ª   ª   ª   ª           +---theming
+ª   ª   ª   ª           +---__mocks__
+ª   ª   ª   +---node_modules
+ª   ª   ª   ª   +---escape-string-regexp
+ª   ª   ª   +---src
+ª   ª   ª       +---theming
+ª   ª   ª       +---__mocks__
+ª   ª   +---routers
+ª   ª       +---lib
+ª   ª       ª   +---commonjs
+ª   ª       ª   +---module
+ª   ª       ª   +---typescript
+ª   ª       ª       +---src
+ª   ª       +---src
+ª   +---@segment
+ª   ª   +---loosely-validate-event
+ª   +---@sinclair
+ª   ª   +---typebox
+ª   ª       +---compiler
+ª   ª       +---conditional
+ª   ª       +---custom
+ª   ª       +---errors
+ª   ª       +---format
+ª   ª       +---guard
+ª   ª       +---hash
+ª   ª       +---system
+ª   ª       +---value
+ª   +---@types
+ª   ª   +---istanbul-lib-coverage
+ª   ª   +---istanbul-lib-report
+ª   ª   +---istanbul-reports
+ª   ª   +---node
+ª   ª   ª   +---assert
+ª   ª   ª   +---dns
+ª   ª   ª   +---fs
+ª   ª   ª   +---readline
+ª   ª   ª   +---stream
+ª   ª   ª   +---timers
+ª   ª   ª   +---ts4.8
+ª   ª   ª       +---assert
+ª   ª   ª       +---dns
+ª   ª   ª       +---fs
+ª   ª   ª       +---readline
+ª   ª   ª       +---stream
+ª   ª   ª       +---timers
+ª   ª   +---prop-types
+ª   ª   +---react
+ª   ª   +---react-native
+ª   ª   +---react-native-vector-icons
+ª   ª   +---scheduler
+ª   ª   +---yargs
+ª   ª   +---yargs-parser
+ª   +---@urql
+ª   ª   +---core
+ª   ª   ª   +---dist
+ª   ª   ª   ª   +---types
+ª   ª   ª   ª       +---exchanges
+ª   ª   ª   ª       +---internal
+ª   ª   ª   ª       +---utils
+ª   ª   ª   +---internal
+ª   ª   +---exchange-retry
+ª   ª       +---dist
+ª   ª           +---types
+ª   +---@xmldom
+ª   ª   +---xmldom
+ª   ª       +---lib
+ª   +---abort-controller
+ª   ª   +---dist
+ª   +---absolute-path
+ª   ª   +---test
+ª   +---accepts
+ª   +---agent-base
+ª   ª   +---dist
+ª   ª   ª   +---src
+ª   ª   +---src
+ª   +---aggregate-error
+ª   +---anser
+ª   ª   +---lib
+ª   +---ansi-escapes
+ª   +---ansi-fragments
+ª   ª   +---build
+ª   ª       +---fragments
+ª   ª           +---__tests__
+ª   +---ansi-regex
+ª   +---ansi-styles
+ª   +---any-promise
+ª   ª   +---register
+ª   +---anymatch
+ª   +---appdirsjs
+ª   ª   +---dist
+ª   +---application-config-path
+ª   +---arg
+ª   +---argparse
+ª   ª   +---lib
+ª   ª       +---action
+ª   ª       ª   +---append
+ª   ª       ª   +---store
+ª   ª       +---argument
+ª   ª       +---help
+ª   +---arr-diff
+ª   +---arr-flatten
+ª   +---arr-union
+ª   +---array-union
+ª   +---array-unique
+ª   +---asap
+ª   +---assign-symbols
+ª   +---ast-types
+ª   ª   +---.github
+ª   ª   ª   +---workflows
+ª   ª   +---def
+ª   ª   +---gen
+ª   ª   +---lib
+ª   +---astral-regex
+ª   +---async
+ª   ª   +---dist
+ª   ª   +---internal
+ª   +---async-limiter
+ª   +---asynckit
+ª   ª   +---lib
+ª   +---at-least-node
+ª   +---atob
+ª   ª   +---bin
+ª   +---babel-core
+ª   +---babel-plugin-module-resolver
+ª   ª   +---lib
+ª   ª       +---transformers
+ª   +---babel-plugin-polyfill-corejs2
+ª   ª   +---esm
+ª   ª   +---lib
+ª   +---babel-plugin-polyfill-corejs3
+ª   ª   +---core-js-compat
+ª   ª   +---esm
+ª   ª   +---lib
+ª   +---babel-plugin-polyfill-regenerator
+ª   ª   +---esm
+ª   ª   +---lib
+ª   +---babel-plugin-react-native-web
+ª   ª   +---src
+ª   ª       +---__tests__
+ª   ª           +---__snapshots__
+ª   +---babel-plugin-syntax-trailing-function-commas
+ª   ª   +---lib
+ª   +---babel-preset-expo
+ª   ª   +---plugins
+ª   +---babel-preset-fbjs
+ª   ª   +---plugins
+ª   ª       +---test-utils
+ª   +---balanced-match
+ª   ª   +---.github
+ª   +---base
+ª   ª   +---node_modules
+ª   ª       +---define-property
+ª   +---base64-js
+ª   +---better-opn
+ª   ª   +---dist
+ª   +---big-integer
+ª   +---bl
+ª   ª   +---node_modules
+ª   ª   ª   +---readable-stream
+ª   ª   ª       +---lib
+ª   ª   ª           +---internal
+ª   ª   ª               +---streams
+ª   ª   +---test
+ª   +---blueimp-md5
+ª   ª   +---js
+ª   +---body-parser
+ª   ª   +---lib
+ª   ª   ª   +---types
+ª   ª   +---node_modules
+ª   ª       +---debug
+ª   ª       ª   +---src
+ª   ª       +---ms
+ª   +---bplist-creator
+ª   ª   +---test
+ª   +---bplist-parser
+ª   +---brace-expansion
+ª   +---braces
+ª   ª   +---lib
+ª   +---browserslist
+ª   +---bser
+ª   +---buffer
+ª   +---buffer-alloc
+ª   +---buffer-alloc-unsafe
+ª   +---buffer-fill
+ª   +---buffer-from
+ª   +---builtins
+ª   +---bytes
+ª   +---cacache
+ª   ª   +---lib
+ª   ª   ª   +---content
+ª   ª   ª   +---util
+ª   ª   +---node_modules
+ª   ª       +---.bin
+ª   ª       +---lru-cache
+ª   ª       +---mkdirp
+ª   ª       ª   +---bin
+ª   ª       ª   +---lib
+ª   ª       +---rimraf
+ª   ª       +---yallist
+ª   +---cache-base
+ª   +---call-bind
+ª   ª   +---.github
+ª   ª   +---test
+ª   +---caller-callsite
+ª   +---caller-path
+ª   +---callsites
+ª   +---camelcase
+ª   +---caniuse-lite
+ª   ª   +---data
+ª   ª   ª   +---features
+ª   ª   ª   +---regions
+ª   ª   +---dist
+ª   ª       +---lib
+ª   ª       +---unpacker
+ª   +---chalk
+ª   ª   +---types
+ª   +---charenc
+ª   +---chownr
+ª   +---ci-info
+ª   +---class-utils
+ª   ª   +---node_modules
+ª   ª       +---define-property
+ª   ª       +---is-accessor-descriptor
+ª   ª       ª   +---node_modules
+ª   ª       ª       +---kind-of
+ª   ª       +---is-data-descriptor
+ª   ª       ª   +---node_modules
+ª   ª       ª       +---kind-of
+ª   ª       +---is-descriptor
+ª   ª       +---kind-of
+ª   +---clean-stack
+ª   +---cli-cursor
+ª   +---cli-spinners
+ª   +---cliui
+ª   ª   +---node_modules
+ª   ª       +---ansi-styles
+ª   ª       +---color-convert
+ª   ª       +---color-name
+ª   ª       +---strip-ansi
+ª   ª       +---wrap-ansi
+ª   +---clone
+ª   +---clone-deep
+ª   +---collection-visit
+ª   +---color
+ª   +---color-convert
+ª   +---color-name
+ª   +---color-string
+ª   +---colorette
+ª   +---combined-stream
+ª   ª   +---lib
+ª   +---command-exists
+ª   ª   +---lib
+ª   ª   +---test
+ª   +---commander
+ª   ª   +---typings
+ª   +---commondir
+ª   ª   +---example
+ª   ª   +---test
+ª   +---compare-versions
+ª   +---component-emitter
+ª   +---component-type
+ª   ª   +---test
+ª   +---compressible
+ª   +---compression
+ª   ª   +---node_modules
+ª   ª       +---bytes
+ª   ª       +---debug
+ª   ª       ª   +---src
+ª   ª       +---ms
+ª   +---concat-map
+ª   ª   +---example
+ª   ª   +---test
+ª   +---connect
+ª   ª   +---node_modules
+ª   ª       +---debug
+ª   ª       ª   +---src
+ª   ª       +---ms
+ª   +---content-type
+ª   +---convert-source-map
+ª   +---copy-descriptor
+ª   +---core-js-compat
+ª   +---core-util-is
+ª   ª   +---lib
+ª   +---cosmiconfig
+ª   ª   +---dist
+ª   +---cross-fetch
+ª   ª   +---dist
+ª   ª   +---node_modules
+ª   ª   ª   +---node-fetch
+ª   ª   ª       +---lib
+ª   ª   +---polyfill
+ª   +---cross-spawn
+ª   ª   +---lib
+ª   ª   ª   +---util
+ª   ª   +---node_modules
+ª   ª       +---.bin
+ª   ª       +---semver
+ª   ª           +---bin
+ª   +---crypt
+ª   +---crypto-random-string
+ª   +---csstype
+ª   +---dag-map
+ª   ª   +---dist
+ª   ª   +---lib
+ª   ª       +---dag-map
+ª   +---dayjs
+ª   ª   +---esm
+ª   ª   ª   +---locale
+ª   ª   ª   +---plugin
+ª   ª   ª       +---advancedFormat
+ª   ª   ª       +---arraySupport
+ª   ª   ª       +---badMutable
+ª   ª   ª       +---bigIntSupport
+ª   ª   ª       +---buddhistEra
+ª   ª   ª       +---calendar
+ª   ª   ª       +---customParseFormat
+ª   ª   ª       +---dayOfYear
+ª   ª   ª       +---devHelper
+ª   ª   ª       +---duration
+ª   ª   ª       +---isBetween
+ª   ª   ª       +---isLeapYear
+ª   ª   ª       +---isMoment
+ª   ª   ª       +---isoWeek
+ª   ª   ª       +---isoWeeksInYear
+ª   ª   ª       +---isSameOrAfter
+ª   ª   ª       +---isSameOrBefore
+ª   ª   ª       +---isToday
+ª   ª   ª       +---isTomorrow
+ª   ª   ª       +---isYesterday
+ª   ª   ª       +---localeData
+ª   ª   ª       +---localizedFormat
+ª   ª   ª       +---minMax
+ª   ª   ª       +---objectSupport
+ª   ª   ª       +---pluralGetSet
+ª   ª   ª       +---preParsePostFormat
+ª   ª   ª       +---quarterOfYear
+ª   ª   ª       +---relativeTime
+ª   ª   ª       +---timezone
+ª   ª   ª       +---toArray
+ª   ª   ª       +---toObject
+ª   ª   ª       +---updateLocale
+ª   ª   ª       +---utc
+ª   ª   ª       +---weekday
+ª   ª   ª       +---weekOfYear
+ª   ª   ª       +---weekYear
+ª   ª   +---locale
+ª   ª   +---plugin
+ª   +---debug
+ª   ª   +---src
+ª   +---decamelize
+ª   +---decode-uri-component
+ª   +---deep-extend
+ª   ª   +---lib
+ª   +---deepmerge
+ª   ª   +---dist
+ª   +---default-gateway
+ª   +---defaults
+ª   ª   +---node_modules
+ª   ª       +---clone
+ª   +---define-lazy-prop
+ª   +---define-property
+ª   +---del
+ª   ª   +---node_modules
+ª   ª       +---.bin
+ª   ª       +---rimraf
+ª   +---delayed-stream
+ª   ª   +---lib
+ª   +---denodeify
+ª   ª   +---test
+ª   +---depd
+ª   ª   +---lib
+ª   ª       +---browser
+ª   +---destroy
+ª   +---dir-glob
+ª   +---ee-first
+ª   +---electron-to-chromium
+ª   +---emoji-regex
+ª   ª   +---es2015
+ª   +---encodeurl
+ª   +---end-of-stream
+ª   +---env-editor
+ª   +---envinfo
+ª   ª   +---dist
+ª   +---eol
+ª   +---error-ex
+ª   +---error-stack-parser
+ª   ª   +---dist
+ª   +---errorhandler
+ª   ª   +---public
+ª   +---escalade
+ª   ª   +---dist
+ª   ª   +---sync
+ª   +---escape-html
+ª   +---escape-string-regexp
+ª   +---esprima
+ª   ª   +---bin
+ª   ª   +---dist
+ª   +---esutils
+ª   ª   +---lib
+ª   +---etag
+ª   +---event-target-shim
+ª   ª   +---dist
+ª   +---exec-async
+ª   +---execa
+ª   ª   +---lib
+ª   +---expand-brackets
+ª   ª   +---lib
+ª   ª   +---node_modules
+ª   ª       +---debug
+ª   ª       ª   +---src
+ª   ª       +---define-property
+ª   ª       +---extend-shallow
+ª   ª       +---is-accessor-descriptor
+ª   ª       ª   +---node_modules
+ª   ª       ª       +---kind-of
+ª   ª       +---is-data-descriptor
+ª   ª       ª   +---node_modules
+ª   ª       ª       +---kind-of
+ª   ª       +---is-descriptor
+ª   ª       +---is-extendable
+ª   ª       +---kind-of
+ª   ª       +---ms
+ª   +---expo
+ª   ª   +---android
+ª   ª   ª   +---src
+ª   ª   ª       +---main
+ª   ª   ª       ª   +---java
+ª   ª   ª       ª       +---expo
+ª   ª   ª       ª           +---modules
+ª   ª   ª       +---reactNativeHostWrapper
+ª   ª   ª       ª   +---expo
+ª   ª   ª       ª       +---modules
+ª   ª   ª       +---reactNativeHostWrapper64
+ª   ª   ª       ª   +---expo
+ª   ª   ª       ª       +---modules
+ª   ª   ª       +---reactNativeHostWrapper67
+ª   ª   ª       ª   +---expo
+ª   ª   ª       ª       +---modules
+ª   ª   ª       +---reactNativeHostWrapper69
+ª   ª   ª       ª   +---expo
+ª   ª   ª       ª       +---modules
+ª   ª   ª       +---test
+ª   ª   ª           +---java
+ª   ª   ª               +---expo
+ª   ª   ª                   +---modules
+ª   ª   +---bin
+ª   ª   +---build
+ª   ª   ª   +---environment
+ª   ª   ª   +---errors
+ª   ª   ª   +---launch
+ª   ª   ª   +---logs
+ª   ª   ª   ª   +---format
+ª   ª   ª   +---timer
+ª   ª   +---ios
+ª   ª   +---scripts
+ª   ª   +---tools
+ª   +---expo-application
+ª   ª   +---android
+ª   ª   ª   +---src
+ª   ª   ª       +---main
+ª   ª   ª           +---java
+ª   ª   ª               +---expo
+ª   ª   ª                   +---modules
+ª   ª   ª                       +---application
+ª   ª   +---build
+ª   ª   +---ios
+ª   ª   ª   +---EXApplication
+ª   ª   +---src
+ª   +---expo-asset
+ª   ª   +---build
+ª   ª   +---src
+ª   ª   ª   +---ts-declarations
+ª   ª   +---tools
+ª   +---expo-constants
+ª   ª   +---android
+ª   ª   ª   +---src
+ª   ª   ª       +---main
+ª   ª   ª           +---java
+ª   ª   ª               +---expo
+ª   ª   ª                   +---modules
+ª   ª   ª                       +---constants
+ª   ª   +---build
+ª   ª   +---ios
+ª   ª   ª   +---EXConstants
+ª   ª   +---scripts
+ª   ª   +---src
+ª   +---expo-error-recovery
+ª   ª   +---android
+ª   ª   ª   +---src
+ª   ª   ª       +---main
+ª   ª   ª           +---java
+ª   ª   ª               +---expo
+ª   ª   ª                   +---modules
+ª   ª   ª                       +---errorrecovery
+ª   ª   +---build
+ª   ª   +---ios
+ª   ª   ª   +---EXErrorRecovery
+ª   ª   +---src
+ª   +---expo-file-system
+ª   ª   +---android
+ª   ª   ª   +---src
+ª   ª   ª       +---main
+ª   ª   ª           +---java
+ª   ª   ª           ª   +---expo
+ª   ª   ª           ª       +---modules
+ª   ª   ª           ª           +---filesystem
+ª   ª   ª           +---res
+ª   ª   ª               +---xml
+ª   ª   +---build
+ª   ª   +---ios
+ª   ª   ª   +---EXFileSystem
+ª   ª   ª   ª   +---EXSessionTasks
+ª   ª   ª   +---EXFileSystem.xcframework
+ª   ª   ª       +---ios-arm64
+ª   ª   ª       ª   +---EXFileSystem.framework
+ª   ª   ª       ª       +---Modules
+ª   ª   ª       +---ios-arm64_x86_64-simulator
+ª   ª   ª           +---EXFileSystem.framework
+ª   ª   ª               +---Modules
+ª   ª   +---plugin
+ª   ª   ª   +---build
+ª   ª   ª   +---src
+ª   ª   +---src
+ª   +---expo-font
+ª   ª   +---android
+ª   ª   ª   +---src
+ª   ª   ª       +---main
+ª   ª   ª           +---java
+ª   ª   ª               +---expo
+ª   ª   ª                   +---modules
+ª   ª   ª                       +---font
+ª   ª   +---build
+ª   ª   +---ios
+ª   ª   ª   +---EXFont
+ª   ª   ª       +---Singletons
+ª   ª   +---src
+ª   +---expo-keep-awake
+ª   ª   +---android
+ª   ª   ª   +---src
+ª   ª   ª       +---main
+ª   ª   ª           +---java
+ª   ª   ª               +---expo
+ª   ª   ª                   +---modules
+ª   ª   ª                       +---keepawake
+ª   ª   +---build
+ª   ª   +---ios
+ª   ª   +---src
+ª   +---expo-modules-autolinking
+ª   ª   +---bin
+ª   ª   +---build
+ª   ª   ª   +---autolinking
+ª   ª   ª   +---platforms
+ª   ª   +---e2e
+ª   ª   +---node_modules
+ª   ª   ª   +---ansi-styles
+ª   ª   ª   +---chalk
+ª   ª   ª   ª   +---source
+ª   ª   ª   +---color-convert
+ª   ª   ª   +---color-name
+ª   ª   ª   +---fs-extra
+ª   ª   ª   ª   +---lib
+ª   ª   ª   ª       +---copy
+ª   ª   ª   ª       +---copy-sync
+ª   ª   ª   ª       +---empty
+ª   ª   ª   ª       +---ensure
+ª   ª   ª   ª       +---fs
+ª   ª   ª   ª       +---json
+ª   ª   ª   ª       +---mkdirs
+ª   ª   ª   ª       +---move
+ª   ª   ª   ª       +---move-sync
+ª   ª   ª   ª       +---output
+ª   ª   ª   ª       +---path-exists
+ª   ª   ª   ª       +---remove
+ª   ª   ª   ª       +---util
+ª   ª   ª   +---has-flag
+ª   ª   ª   +---jsonfile
+ª   ª   ª   +---supports-color
+ª   ª   ª   +---universalify
+ª   ª   +---scripts
+ª   ª   ª   +---android
+ª   ª   ª   +---ios
+ª   ª   ª       +---cocoapods
+ª   ª   +---src
+ª   ª       +---autolinking
+ª   ª       +---platforms
+ª   +---expo-modules-core
+ª   ª   +---android
+ª   ª   ª   +---legacy
+ª   ª   ª   ª   +---fabric
+ª   ª   ª   +---src
+ª   ª   ª       +---fabric
+ª   ª   ª       +---main
+ª   ª   ª           +---cpp
+ª   ª   ª           ª   +---javaclasses
+ª   ª   ª           ª   +---types
+ª   ª   ª           +---java
+ª   ª   ª               +---expo
+ª   ª   ª                   +---modules
+ª   ª   ª                       +---adapters
+ª   ª   ª                       ª   +---react
+ª   ª   ª                       ª       +---apploader
+ª   ª   ª                       ª       +---permissions
+ª   ª   ª                       ª       +---services
+ª   ª   ª                       ª       +---views
+ª   ª   ª                       +---apploader
+ª   ª   ª                       +---core
+ª   ª   ª                       ª   +---arguments
+ª   ª   ª                       ª   +---errors
+ª   ª   ª                       ª   +---interfaces
+ª   ª   ª                       ª   ª   +---services
+ª   ª   ª                       ª   +---logging
+ª   ª   ª                       ª   +---utilities
+ª   ª   ª                       +---interfaces
+ª   ª   ª                       ª   +---barcodescanner
+ª   ª   ª                       ª   +---camera
+ª   ª   ª                       ª   +---constants
+ª   ª   ª                       ª   +---facedetector
+ª   ª   ª                       ª   +---filesystem
+ª   ª   ª                       ª   +---font
+ª   ª   ª                       ª   +---imageloader
+ª   ª   ª                       ª   +---permissions
+ª   ª   ª                       ª   +---sensors
+ª   ª   ª                       ª   ª   +---services
+ª   ª   ª                       ª   +---taskManager
+ª   ª   ª                       +---kotlin
+ª   ª   ª                           +---activityaware
+ª   ª   ª                           +---activityresult
+ª   ª   ª                           +---allocators
+ª   ª   ª                           +---apifeatures
+ª   ª   ª                           +---defaultmodules
+ª   ª   ª                           +---events
+ª   ª   ª                           +---exception
+ª   ª   ª                           +---functions
+ª   ª   ª                           +---jni
+ª   ª   ª                           +---modules
+ª   ª   ª                           +---objects
+ª   ª   ª                           +---providers
+ª   ª   ª                           +---records
+ª   ª   ª                           +---typedarray
+ª   ª   ª                           +---types
+ª   ª   ª                           ª   +---io
+ª   ª   ª                           ª   +---net
+ª   ª   ª                           +---viewevent
+ª   ª   ª                           +---views
+ª   ª   +---build
+ª   ª   ª   +---environment
+ª   ª   ª   +---errors
+ª   ª   ª   +---sweet
+ª   ª   +---common
+ª   ª   ª   +---cpp
+ª   ª   ª       +---fabric
+ª   ª   +---ios
+ª   ª   ª   +---AppDelegates
+ª   ª   ª   +---Fabric
+ª   ª   ª   +---Interfaces
+ª   ª   ª   ª   +---BarcodeScanner
+ª   ª   ª   ª   +---Camera
+ª   ª   ª   ª   +---Constants
+ª   ª   ª   ª   +---FaceDetector
+ª   ª   ª   ª   +---FileSystem
+ª   ª   ª   ª   +---Font
+ª   ª   ª   ª   +---ImageLoader
+ª   ª   ª   ª   +---Permissions
+ª   ª   ª   ª   +---Sensors
+ª   ª   ª   ª   +---TaskManager
+ª   ª   ª   +---JSI
+ª   ª   ª   +---ModuleRegistry
+ª   ª   ª   +---ModuleRegistryAdapter
+ª   ª   ª   +---ModuleRegistryProvider
+ª   ª   ª   +---NativeModulesProxy
+ª   ª   ª   +---Protocols
+ª   ª   ª   +---ReactDelegates
+ª   ª   ª   +---Services
+ª   ª   ª   ª   +---Permissions
+ª   ª   ª   +---Swift
+ª   ª   ª   ª   +---Arguments
+ª   ª   ª   ª   +---Classes
+ª   ª   ª   ª   +---Convertibles
+ª   ª   ª   ª   +---DynamicTypes
+ª   ª   ª   ª   +---Events
+ª   ª   ª   ª   +---Exceptions
+ª   ª   ª   ª   +---Functions
+ª   ª   ª   ª   +---Logging
+ª   ª   ª   ª   +---Modules
+ª   ª   ª   ª   +---Objects
+ª   ª   ª   ª   +---Records
+ª   ª   ª   ª   +---SharedObjects
+ª   ª   ª   ª   +---TypedArrays
+ª   ª   ª   ª   +---Views
+ª   ª   ª   +---Tests
+ª   ª   ª   ª   +---Mocks
+ª   ª   ª   +---ViewManagerAdapter
+ª   ª   +---src
+ª   ª       +---environment
+ª   ª       +---errors
+ª   ª       +---sweet
+ª   ª       +---ts-declarations
+ª   +---expo-status-bar
+ª   ª   +---build
+ª   ª   +---src
+ª   +---extend-shallow
+ª   +---extglob
+ª   ª   +---lib
+ª   ª   +---node_modules
+ª   ª       +---define-property
+ª   ª       +---extend-shallow
+ª   ª       +---is-extendable
+ª   +---fast-deep-equal
+ª   ª   +---es6
+ª   +---fast-glob
+ª   ª   +---out
+ª   ª       +---managers
+ª   ª       +---providers
+ª   ª       ª   +---filters
+ª   ª       ª   +---matchers
+ª   ª       ª   +---transformers
+ª   ª       +---readers
+ª   ª       +---types
+ª   ª       +---utils
+ª   +---fastq
+ª   ª   +---.github
+ª   ª   ª   +---workflows
+ª   ª   +---test
+ª   +---fb-watchman
+ª   +---fbemitter
+ª   ª   +---lib
+ª   +---fbjs
+ª   ª   +---flow
+ª   ª   ª   +---lib
+ª   ª   +---lib
+ª   ª       +---__mocks__
+ª   +---fbjs-css-vars
+ª   +---fetch-retry
+ª   ª   +---test
+ª   ª       +---integration
+ª   ª       ª   +---mock-api
+ª   ª       +---unit
+ª   +---fill-range
+ª   +---filter-obj
+ª   +---finalhandler
+ª   ª   +---node_modules
+ª   ª       +---debug
+ª   ª       ª   +---src
+ª   ª       +---ms
+ª   ª       +---on-finished
+ª   +---find-babel-config
+ª   ª   +---.circleci
+ª   ª   +---lib
+ª   ª   +---node_modules
+ª   ª       +---.bin
+ª   ª       +---json5
+ª   ª           +---lib
+ª   +---find-cache-dir
+ª   +---find-up
+ª   ª   +---node_modules
+ª   ª       +---path-exists
+ª   +---find-yarn-workspace-root
+ª   +---flow-parser
+ª   +---fontfaceobserver
+ª   ª   +---src
+ª   +---for-in
+ª   +---form-data
+ª   ª   +---lib
+ª   +---fragment-cache
+ª   +---freeport-async
+ª   +---fresh
+ª   +---fs-extra
+ª   ª   +---lib
+ª   ª       +---copy
+ª   ª       +---copy-sync
+ª   ª       +---empty
+ª   ª       +---ensure
+ª   ª       +---fs
+ª   ª       +---json
+ª   ª       +---mkdirs
+ª   ª       +---move
+ª   ª       +---move-sync
+ª   ª       +---output
+ª   ª       +---path-exists
+ª   ª       +---remove
+ª   ª       +---util
+ª   +---fs-minipass
+ª   +---fs.realpath
+ª   +---function-bind
+ª   ª   +---test
+ª   +---gensync
+ª   ª   +---test
+ª   +---get-caller-file
+ª   +---get-intrinsic
+ª   ª   +---.github
+ª   ª   +---test
+ª   +---get-port
+ª   +---get-stream
+ª   +---get-value
+ª   +---getenv
+ª   +---glob
+ª   +---glob-parent
+ª   +---globals
+ª   +---globby
+ª   +---graceful-fs
+ª   +---graphql
+ª   ª   +---error
+ª   ª   +---execution
+ª   ª   +---jsutils
+ª   ª   +---language
+ª   ª   ª   +---experimentalOnlineParser
+ª   ª   +---polyfills
+ª   ª   +---subscription
+ª   ª   +---type
+ª   ª   +---utilities
+ª   ª   +---validation
+ª   ª       +---rules
+ª   ª           +---custom
+ª   +---graphql-tag
+ª   ª   +---lib
+ª   ª   +---src
+ª   +---has
+ª   ª   +---src
+ª   ª   +---test
+ª   +---has-flag
+ª   +---has-symbols
+ª   ª   +---.github
+ª   ª   +---test
+ª   ª       +---shams
+ª   +---has-value
+ª   +---has-values
+ª   ª   +---node_modules
+ª   ª       +---is-number
+ª   ª       ª   +---node_modules
+ª   ª       ª       +---kind-of
+ª   ª       +---kind-of
+ª   +---hermes-estree
+ª   ª   +---dist
+ª   ª       +---generated
+ª   +---hermes-parser
+ª   ª   +---dist
+ª   ª       +---generated
+ª   +---hermes-profile-transformer
+ª   ª   +---dist
+ª   ª   ª   +---profiler
+ª   ª   ª   +---types
+ª   ª   ª   +---utils
+ª   ª   +---src
+ª   ª       +---profiler
+ª   ª       +---types
+ª   ª       +---utils
+ª   ª       +---__test__
+ª   +---hoist-non-react-statics
+ª   ª   +---dist
+ª   ª   +---node_modules
+ª   ª   ª   +---react-is
+ª   ª   ª       +---cjs
+ª   ª   ª       +---umd
+ª   ª   +---src
+ª   +---hosted-git-info
+ª   ª   +---node_modules
+ª   ª       +---lru-cache
+ª   ª       +---yallist
+ª   +---http-errors
+ª   ª   +---node_modules
+ª   ª       +---statuses
+ª   +---https-proxy-agent
+ª   ª   +---dist
+ª   +---iconv-lite
+ª   ª   +---encodings
+ª   ª   ª   +---tables
+ª   ª   +---lib
+ª   +---ieee754
+ª   +---ignore
+ª   +---image-size
+ª   ª   +---bin
+ª   ª   +---lib
+ª   ª       +---types
+ª   +---import-fresh
+ª   ª   +---node_modules
+ª   ª       +---resolve-from
+ª   +---imurmurhash
+ª   +---indent-string
+ª   +---infer-owner
+ª   +---inflight
+ª   +---inherits
+ª   +---ini
+ª   +---internal-ip
+ª   +---invariant
+ª   +---ip
+ª   ª   +---lib
+ª   +---ip-regex
+ª   +---ipaddr.js
+ª   ª   +---lib
+ª   +---is-accessor-descriptor
+ª   +---is-arrayish
+ª   +---is-buffer
+ª   ª   +---test
+ª   +---is-core-module
+ª   ª   +---test
+ª   +---is-data-descriptor
+ª   +---is-descriptor
+ª   +---is-directory
+ª   +---is-docker
+ª   +---is-extendable
+ª   +---is-extglob
+ª   +---is-fullwidth-code-point
+ª   +---is-glob
+ª   +---is-interactive
+ª   +---is-invalid-path
+ª   ª   +---node_modules
+ª   ª       +---is-extglob
+ª   ª       +---is-glob
+ª   +---is-number
+ª   +---is-path-cwd
+ª   +---is-path-inside
+ª   +---is-plain-object
+ª   +---is-root
+ª   +---is-stream
+ª   +---is-unicode-supported
+ª   +---is-valid-path
+ª   +---is-windows
+ª   +---is-wsl
+ª   +---isarray
+ª   +---isexe
+ª   ª   +---test
+ª   +---isobject
+ª   +---jest-get-type
+ª   ª   +---build
+ª   +---jest-regex-util
+ª   ª   +---build
+ª   +---jest-serializer
+ª   ª   +---build
+ª   +---jest-util
+ª   ª   +---build
+ª   ª   +---node_modules
+ª   ª       +---@jest
+ª   ª       ª   +---types
+ª   ª       ª       +---build
+ª   ª       +---@types
+ª   ª       ª   +---yargs
+ª   ª       +---ansi-styles
+ª   ª       +---chalk
+ª   ª       ª   +---source
+ª   ª       +---color-convert
+ª   ª       +---color-name
+ª   ª       +---has-flag
+ª   ª       +---supports-color
+ª   +---jest-validate
+ª   ª   +---build
+ª   ª   +---node_modules
+ª   ª       +---ansi-styles
+ª   ª       +---chalk
+ª   ª       ª   +---source
+ª   ª       +---color-convert
+ª   ª       +---color-name
+ª   ª       +---has-flag
+ª   ª       +---supports-color
+ª   +---jest-worker
+ª   ª   +---build
+ª   ª   ª   +---base
+ª   ª   ª   +---workers
+ª   ª   +---node_modules
+ª   ª       +---has-flag
+ª   ª       +---supports-color
+ª   +---jimp-compact
+ª   ª   +---dist
+ª   +---joi
+ª   ª   +---dist
+ª   ª   +---lib
+ª   ª       +---types
+ª   +---join-component
+ª   ª   +---test
+ª   +---js-tokens
+ª   +---js-yaml
+ª   ª   +---bin
+ª   ª   +---dist
+ª   ª   +---lib
+ª   ª       +---js-yaml
+ª   ª           +---schema
+ª   ª           +---type
+ª   ª               +---js
+ª   +---jsc-android
+ª   ª   +---dist
+ª   ª       +---include
+ª   ª       +---org
+ª   ª           +---webkit
+ª   ª               +---android-jsc
+ª   ª               ª   +---r250230
+ª   ª               +---android-jsc-cppruntime
+ª   ª               ª   +---r250230
+ª   ª               +---android-jsc-intl
+ª   ª                   +---r250230
+ª   +---jscodeshift
+ª   ª   +---bin
+ª   ª   +---dist
+ª   ª   ª   +---collections
+ª   ª   ª   +---utils
+ª   ª   +---node_modules
+ª   ª   ª   +---.bin
+ª   ª   ª   +---ansi-styles
+ª   ª   ª   +---braces
+ª   ª   ª   ª   +---lib
+ª   ª   ª   ª   +---node_modules
+ª   ª   ª   ª       +---extend-shallow
+ª   ª   ª   +---chalk
+ª   ª   ª   ª   +---source
+ª   ª   ª   +---color-convert
+ª   ª   ª   +---color-name
+ª   ª   ª   +---fill-range
+ª   ª   ª   ª   +---node_modules
+ª   ª   ª   ª       +---extend-shallow
+ª   ª   ª   +---has-flag
+ª   ª   ª   +---is-extendable
+ª   ª   ª   +---is-number
+ª   ª   ª   ª   +---node_modules
+ª   ª   ª   ª       +---kind-of
+ª   ª   ª   +---micromatch
+ª   ª   ª   ª   +---lib
+ª   ª   ª   +---rimraf
+ª   ª   ª   +---supports-color
+ª   ª   ª   +---temp
+ª   ª   ª   ª   +---lib
+ª   ª   ª   +---to-regex-range
+ª   ª   +---parser
+ª   ª   +---src
+ª   ª   ª   +---collections
+ª   ª   ª   +---utils
+ª   ª   +---utils
+ª   +---jsesc
+ª   ª   +---bin
+ª   ª   +---man
+ª   +---json-parse-better-errors
+ª   +---json-schema-deref-sync
+ª   ª   +---lib
+ª   ª   ª   +---loaders
+ª   ª   +---node_modules
+ª   ª       +---md5
+ª   +---json5
+ª   ª   +---dist
+ª   ª   +---lib
+ª   +---jsonfile
+ª   +---kind-of
+ª   +---klaw
+ª   ª   +---src
+ª   +---kleur
+ª   +---leven
+ª   +---lines-and-columns
+ª   ª   +---build
+ª   +---locate-path
+ª   +---lodash
+ª   ª   +---fp
+ª   +---lodash.debounce
+ª   +---lodash.isequal
+ª   +---lodash.throttle
+ª   +---log-symbols
+ª   +---logkitty
+ª   ª   +---bin
+ª   ª   +---build
+ª   ª   ª   +---android
+ª   ª   ª   +---ios
+ª   ª   +---docs
+ª   +---loose-envify
+ª   +---lru-cache
+ª   +---make-dir
+ª   ª   +---node_modules
+ª   ª       +---.bin
+ª   ª       +---semver
+ª   ª           +---bin
+ª   +---makeerror
+ª   ª   +---lib
+ª   +---map-cache
+ª   +---map-visit
+ª   +---md5
+ª   ª   +---demo
+ª   ª   +---dist
+ª   +---md5-file
+ª   +---md5hex
+ª   +---media-typer
+ª   +---memoize-one
+ª   ª   +---dist
+ª   ª   +---src
+ª   +---memory-cache
+ª   +---merge-stream
+ª   +---merge2
+ª   +---metro
+ª   ª   +---node_modules
+ª   ª   ª   +---ansi-styles
+ª   ª   ª   +---chalk
+ª   ª   ª   ª   +---source
+ª   ª   ª   +---ci-info
+ª   ª   ª   +---color-convert
+ª   ª   ª   +---color-name
+ª   ª   ª   +---debug
+ª   ª   ª   ª   +---src
+ª   ª   ª   +---fs-extra
+ª   ª   ª   ª   +---lib
+ª   ª   ª   ª       +---copy
+ª   ª   ª   ª       +---copy-sync
+ª   ª   ª   ª       +---empty
+ª   ª   ª   ª       +---ensure
+ª   ª   ª   ª       +---json
+ª   ª   ª   ª       +---mkdirs
+ª   ª   ª   ª       +---move
+ª   ª   ª   ª       +---output
+ª   ª   ª   ª       +---remove
+ª   ª   ª   ª       +---util
+ª   ª   ª   ª       +---walk
+ª   ª   ª   ª       +---walk-sync
+ª   ª   ª   +---has-flag
+ª   ª   ª   +---jsonfile
+ª   ª   ª   +---ms
+ª   ª   ª   +---serialize-error
+ª   ª   ª   +---source-map
+ª   ª   ª   ª   +---dist
+ª   ª   ª   ª   +---lib
+ª   ª   ª   +---strip-ansi
+ª   ª   ª   +---supports-color
+ª   ª   ª   +---ws
+ª   ª   ª       +---lib
+ª   ª   +---src
+ª   ª       +---Bundler
+ª   ª       +---commands
+ª   ª       +---DeltaBundler
+ª   ª       ª   +---Serializers
+ª   ª       ª   ª   +---helpers
+ª   ª       ª   +---__fixtures__
+ª   ª       +---IncrementalBundler
+ª   ª       +---integration_tests
+ª   ª       ª   +---basic_bundle
+ª   ª       ª       +---import-export
+ª   ª       ª       +---require-context
+ª   ª       ª           +---subdir
+ª   ª       ª           ª   +---nested
+ª   ª       ª           +---subdir-conflict
+ª   ª       +---lib
+ª   ª       +---ModuleGraph
+ª   ª       ª   +---node-haste
+ª   ª       ª   +---output
+ª   ª       ª   +---worker
+ª   ª       +---node-haste
+ª   ª       ª   +---DependencyGraph
+ª   ª       ª   +---lib
+ª   ª       +---Server
+ª   ª       +---shared
+ª   ª           +---output
+ª   ª               +---RamBundle
+ª   +---metro-babel-transformer
+ª   ª   +---src
+ª   +---metro-cache
+ª   ª   +---src
+ª   ª       +---stores
+ª   +---metro-cache-key
+ª   ª   +---src
+ª   +---metro-config
+ª   ª   +---src
+ª   ª       +---defaults
+ª   +---metro-core
+ª   ª   +---src
+ª   ª       +---errors
+ª   +---metro-file-map
+ª   ª   +---node_modules
+ª   ª   ª   +---debug
+ª   ª   ª   ª   +---src
+ª   ª   ª   +---ms
+ª   ª   +---src
+ª   ª       +---cache
+ª   ª       +---crawlers
+ª   ª       +---lib
+ª   ª       +---watchers
+ª   +---metro-hermes-compiler
+ª   ª   +---src
+ª   +---metro-inspector-proxy
+ª   ª   +---node_modules
+ª   ª   ª   +---debug
+ª   ª   ª   ª   +---src
+ª   ª   ª   +---ms
+ª   ª   ª   +---ws
+ª   ª   ª       +---lib
+ª   ª   +---src
+ª   +---metro-minify-uglify
+ª   ª   +---src
+ª   +---metro-react-native-babel-preset
+ª   ª   +---src
+ª   ª       +---configs
+ª   +---metro-react-native-babel-transformer
+ª   ª   +---src
+ª   +---metro-resolver
+ª   ª   +---src
+ª   +---metro-runtime
+ª   ª   +---src
+ª   ª       +---modules
+ª   ª       ª   +---vendor
+ª   ª       +---polyfills
+ª   +---metro-source-map
+ª   ª   +---node_modules
+ª   ª   ª   +---source-map
+ª   ª   ª       +---dist
+ª   ª   ª       +---lib
+ª   ª   +---src
+ª   ª       +---Consumer
+ª   +---metro-symbolicate
+ª   ª   +---node_modules
+ª   ª   ª   +---source-map
+ª   ª   ª       +---dist
+ª   ª   ª       +---lib
+ª   ª   +---src
+ª   +---metro-transform-plugins
+ª   ª   +---src
+ª   ª       +---utils
+ª   +---metro-transform-worker
+ª   ª   +---src
+ª   ª       +---utils
+ª   +---micromatch
+ª   +---mime
+ª   ª   +---types
+ª   +---mime-db
+ª   +---mime-types
+ª   +---mimic-fn
+ª   +---minimatch
+ª   +---minimist
+ª   ª   +---.github
+ª   ª   +---example
+ª   ª   +---test
+ª   +---minipass
+ª   ª   +---node_modules
+ª   ª       +---yallist
+ª   +---minipass-collect
+ª   +---minipass-flush
+ª   +---minipass-pipeline
+ª   +---minizlib
+ª   ª   +---node_modules
+ª   ª       +---yallist
+ª   +---mixin-deep
+ª   +---mkdirp
+ª   ª   +---bin
+ª   +---ms
+ª   +---mv
+ª   ª   +---node_modules
+ª   ª   ª   +---.bin
+ª   ª   ª   +---glob
+ª   ª   ª   +---rimraf
+ª   ª   +---test
+ª   ª       +---a-folder
+ª   ª           +---another-folder
+ª   +---mz
+ª   +---nanoid
+ª   ª   +---async
+ª   ª   +---bin
+ª   ª   +---non-secure
+ª   ª   +---url-alphabet
+ª   +---nanomatch
+ª   ª   +---lib
+ª   +---ncp
+ª   ª   +---bin
+ª   ª   +---lib
+ª   ª   +---test
+ª   ª       +---modified-files
+ª   ª       ª   +---out
+ª   ª       ª   +---src
+ª   ª       +---regular-fixtures
+ª   ª       ª   +---src
+ª   ª       ª       +---sub
+ª   ª       +---symlink-fixtures
+ª   ª           +---src
+ª   ª               +---dir
+ª   +---negotiator
+ª   ª   +---lib
+ª   +---neo-async
+ª   +---nested-error-stacks
+ª   +---nice-try
+ª   ª   +---src
+ª   +---nocache
+ª   +---node-dir
+ª   ª   +---lib
+ª   +---node-fetch
+ª   ª   +---lib
+ª   +---node-forge
+ª   ª   +---dist
+ª   ª   +---flash
+ª   ª   ª   +---swf
+ª   ª   +---lib
+ª   +---node-int64
+ª   +---node-releases
+ª   ª   +---data
+ª   ª       +---processed
+ª   ª       +---release-schedule
+ª   +---node-stream-zip
+ª   +---normalize-path
+ª   +---npm-package-arg
+ª   ª   +---node_modules
+ª   ª       +---.bin
+ª   ª       +---semver
+ª   ª           +---bin
+ª   +---npm-run-path
+ª   +---nullthrows
+ª   +---ob1
+ª   ª   +---src
+ª   ª       +---__flowtests__
+ª   +---object-assign
+ª   +---object-copy
+ª   ª   +---node_modules
+ª   ª       +---define-property
+ª   ª       +---is-accessor-descriptor
+ª   ª       +---is-data-descriptor
+ª   ª       +---is-descriptor
+ª   ª       ª   +---node_modules
+ª   ª       ª       +---kind-of
+ª   ª       +---kind-of
+ª   +---object-inspect
+ª   ª   +---.github
+ª   ª   +---example
+ª   ª   +---test
+ª   ª       +---browser
+ª   +---object-visit
+ª   +---object.pick
+ª   +---on-finished
+ª   +---on-headers
+ª   +---once
+ª   +---onetime
+ª   +---open
+ª   +---opencollective-postinstall
+ª   +---ora
+ª   +---os-homedir
+ª   +---os-tmpdir
+ª   +---osenv
+ª   +---p-finally
+ª   +---p-limit
+ª   +---p-locate
+ª   +---p-map
+ª   +---p-try
+ª   +---parse-json
+ª   +---parse-png
+ª   +---parseurl
+ª   +---pascalcase
+ª   +---password-prompt
+ª   +---path-browserify
+ª   ª   +---.github
+ª   ª   +---test
+ª   +---path-exists
+ª   +---path-is-absolute
+ª   +---path-key
+ª   +---path-parse
+ª   +---path-type
+ª   +---picocolors
+ª   +---picomatch
+ª   ª   +---lib
+ª   +---pify
+ª   +---pirates
+ª   ª   +---lib
+ª   +---pkg-dir
+ª   ª   +---node_modules
+ª   ª       +---find-up
+ª   ª       +---locate-path
+ª   ª       +---p-limit
+ª   ª       +---p-locate
+ª   +---pkg-up
+ª   ª   +---node_modules
+ª   ª       +---find-up
+ª   ª       +---locate-path
+ª   ª       +---p-limit
+ª   ª       +---p-locate
+ª   +---plist
+ª   ª   +---.github
+ª   ª   ª   +---workflows
+ª   ª   +---dist
+ª   ª   +---examples
+ª   ª   ª   +---browser
+ª   ª   +---lib
+ª   ª   ª   +---xmldom
+ª   ª   +---node_modules
+ª   ª       +---xmlbuilder
+ª   ª           +---.vscode
+ª   ª           +---lib
+ª   ª           +---perf
+ª   ª           ª   +---basic
+ª   ª           +---typings
+ª   +---pngjs
+ª   ª   +---lib
+ª   +---posix-character-classes
+ª   +---pretty-bytes
+ª   +---pretty-format
+ª   ª   +---build
+ª   ª   ª   +---plugins
+ª   ª   ª       +---lib
+ª   ª   +---node_modules
+ª   ª       +---ansi-styles
+ª   ª       +---color-convert
+ª   ª       +---color-name
+ª   +---process-nextick-args
+ª   +---progress
+ª   ª   +---lib
+ª   +---promise
+ª   ª   +---domains
+ª   ª   +---lib
+ª   ª   +---setimmediate
+ª   ª   +---src
+ª   +---promise-inflight
+ª   +---prompts
+ª   ª   +---dist
+ª   ª   ª   +---dateparts
+ª   ª   ª   +---elements
+ª   ª   ª   +---util
+ª   ª   +---lib
+ª   ª       +---dateparts
+ª   ª       +---elements
+ª   ª       +---util
+ª   +---prop-types
+ª   ª   +---lib
+ª   ª   +---node_modules
+ª   ª       +---react-is
+ª   ª           +---cjs
+ª   ª           +---umd
+ª   +---pump
+ª   +---qrcode-terminal
+ª   ª   +---bin
+ª   ª   +---example
+ª   ª   +---lib
+ª   ª   +---test
+ª   ª   +---vendor
+ª   ª       +---QRCode
+ª   +---qs
+ª   ª   +---.github
+ª   ª   +---dist
+ª   ª   +---lib
+ª   ª   +---test
+ª   +---query-string
+ª   +---querystringify
+ª   +---queue-microtask
+ª   +---range-parser
+ª   +---raw-body
+ª   +---rc
+ª   ª   +---lib
+ª   ª   +---test
+ª   +---react
+ª   ª   +---cjs
+ª   ª   +---umd
+ª   +---react-devtools-core
+ª   ª   +---dist
+ª   ª   +---node_modules
+ª   ª       +---ws
+ª   ª           +---lib
+ª   +---react-freeze
+ª   ª   +---dist
+ª   ª   +---src
+ª   +---react-is
+ª   ª   +---cjs
+ª   ª   +---umd
+ª   +---react-native
+ª   ª   +---android
+ª   ª   ª   +---com
+ª   ª   ª       +---facebook
+ª   ª   ª           +---react
+ª   ª   ª               +---hermes-engine
+ª   ª   ª               ª   +---0.70.5
+ª   ª   ª               +---react-native
+ª   ª   ª                   +---0.70.5
+ª   ª   +---flow
+ª   ª   +---flow-typed
+ª   ª   ª   +---npm
+ª   ª   +---jest
+ª   ª   +---Libraries
+ª   ª   ª   +---ActionSheetIOS
+ª   ª   ª   +---Alert
+ª   ª   ª   +---Animated
+ª   ª   ª   ª   +---animations
+ª   ª   ª   ª   +---components
+ª   ª   ª   ª   +---nodes
+ª   ª   ª   +---AppState
+ª   ª   ª   +---BatchedBridge
+ª   ª   ª   ª   +---__mocks__
+ª   ª   ª   +---Blob
+ª   ª   ª   ª   +---__mocks__
+ª   ª   ª   +---BugReporting
+ª   ª   ª   +---Components
+ª   ª   ª   ª   +---AccessibilityInfo
+ª   ª   ª   ª   +---ActivityIndicator
+ª   ª   ª   ª   +---Clipboard
+ª   ª   ª   ª   +---DatePicker
+ª   ª   ª   ª   +---DatePickerAndroid
+ª   ª   ª   ª   +---DrawerAndroid
+ª   ª   ª   ª   +---Keyboard
+ª   ª   ª   ª   +---MaskedView
+ª   ª   ª   ª   +---Pressable
+ª   ª   ª   ª   +---ProgressBarAndroid
+ª   ª   ª   ª   +---ProgressViewIOS
+ª   ª   ª   ª   +---RefreshControl
+ª   ª   ª   ª   ª   +---__mocks__
+ª   ª   ª   ª   +---SafeAreaView
+ª   ª   ª   ª   +---ScrollView
+ª   ª   ª   ª   +---Slider
+ª   ª   ª   ª   +---Sound
+ª   ª   ª   ª   +---StatusBar
+ª   ª   ª   ª   +---Switch
+ª   ª   ª   ª   +---TextInput
+ª   ª   ª   ª   +---ToastAndroid
+ª   ª   ª   ª   +---Touchable
+ª   ª   ª   ª   +---UnimplementedViews
+ª   ª   ª   ª   +---View
+ª   ª   ª   +---Core
+ª   ª   ª   ª   +---Devtools
+ª   ª   ª   ª   +---SegmentFetcher
+ª   ª   ª   ª   +---Timers
+ª   ª   ª   ª   +---__mocks__
+ª   ª   ª   +---EventEmitter
+ª   ª   ª   ª   +---__mocks__
+ª   ª   ª   +---Events
+ª   ª   ª   +---FBLazyVector
+ª   ª   ª   ª   +---FBLazyVector
+ª   ª   ª   +---HeapCapture
+ª   ª   ª   +---Image
+ª   ª   ª   +---Inspector
+ª   ª   ª   +---Interaction
+ª   ª   ª   +---JSInspector
+ª   ª   ª   +---LayoutAnimation
+ª   ª   ª   +---Linking
+ª   ª   ª   +---LinkingIOS
+ª   ª   ª   +---Lists
+ª   ª   ª   ª   +---__flowtests__
+ª   ª   ª   +---LogBox
+ª   ª   ª   ª   +---Data
+ª   ª   ª   ª   +---UI
+ª   ª   ª   ª       +---LogBoxImages
+ª   ª   ª   +---Modal
+ª   ª   ª   +---NativeAnimation
+ª   ª   ª   ª   +---Drivers
+ª   ª   ª   ª   +---Nodes
+ª   ª   ª   +---NativeComponent
+ª   ª   ª   +---NativeModules
+ª   ª   ª   ª   +---specs
+ª   ª   ª   +---Network
+ª   ª   ª   +---NewAppScreen
+ª   ª   ª   ª   +---components
+ª   ª   ª   +---Performance
+ª   ª   ª   +---PermissionsAndroid
+ª   ª   ª   +---Pressability
+ª   ª   ª   +---PushNotificationIOS
+ª   ª   ª   +---RCTRequired
+ª   ª   ª   ª   +---RCTRequired
+ª   ª   ª   +---ReactNative
+ª   ª   ª   +---ReactPrivate
+ª   ª   ª   +---Reliability
+ª   ª   ª   +---Renderer
+ª   ª   ª   ª   +---implementations
+ª   ª   ª   ª   +---shims
+ª   ª   ª   +---Settings
+ª   ª   ª   +---Share
+ª   ª   ª   +---Storage
+ª   ª   ª   +---StyleSheet
+ª   ª   ª   ª   +---private
+ª   ª   ª   ª   +---__flowtests__
+ª   ª   ª   +---SurfaceBackedComponent
+ª   ª   ª   +---SurfaceHostingComponent
+ª   ª   ª   +---Text
+ª   ª   ª   ª   +---BaseText
+ª   ª   ª   ª   +---RawText
+ª   ª   ª   ª   +---Text
+ª   ª   ª   ª   +---TextInput
+ª   ª   ª   ª   ª   +---Multiline
+ª   ª   ª   ª   ª   +---Singleline
+ª   ª   ª   ª   +---VirtualText
+ª   ª   ª   +---TurboModule
+ª   ª   ª   ª   +---samples
+ª   ª   ª   +---Types
+ª   ª   ª   +---TypeSafety
+ª   ª   ª   +---Utilities
+ª   ª   ª   ª   +---differ
+ª   ª   ª   ª   +---__mocks__
+ª   ª   ª   +---vendor
+ª   ª   ª   ª   +---core
+ª   ª   ª   ª   +---emitter
+ª   ª   ª   ª       +---__flowtests__
+ª   ª   ª   +---Vibration
+ª   ª   ª   +---WebSocket
+ª   ª   ª   ª   +---__mocks__
+ª   ª   ª   +---Wrapper
+ª   ª   ª   ª   +---Example
+ª   ª   ª   +---YellowBox
+ª   ª   ª   +---__flowtests__
+ª   ª   +---local-cli
+ª   ª   +---node_modules
+ª   ª   ª   +---@react-native
+ª   ª   ª   ª   +---normalize-color
+ª   ª   ª   +---promise
+ª   ª   ª       +---domains
+ª   ª   ª       +---lib
+ª   ª   ª       +---setimmediate
+ª   ª   ª       +---src
+ª   ª   +---React
+ª   ª   ª   +---AccessibilityResources
+ª   ª   ª   ª   +---en.lproj
+ª   ª   ª   +---AppSetup
+ª   ª   ª   +---Base
+ª   ª   ª   ª   +---Surface
+ª   ª   ª   ª       +---SurfaceHostingView
+ª   ª   ª   +---CoreModules
+ª   ª   ª   +---CxxBridge
+ª   ª   ª   +---CxxLogUtils
+ª   ª   ª   +---CxxModule
+ª   ª   ª   +---CxxUtils
+ª   ª   ª   +---DevSupport
+ª   ª   ª   +---Fabric
+ª   ª   ª   ª   +---Mounting
+ª   ª   ª   ª   ª   +---ComponentViews
+ª   ª   ª   ª   ª       +---ActivityIndicator
+ª   ª   ª   ª   ª       +---Image
+ª   ª   ª   ª   ª       +---InputAccessory
+ª   ª   ª   ª   ª       +---LegacyViewManagerInterop
+ª   ª   ª   ª   ª       +---Modal
+ª   ª   ª   ª   ª       +---Root
+ª   ª   ª   ª   ª       +---SafeAreaView
+ª   ª   ª   ª   ª       +---ScrollView
+ª   ª   ª   ª   ª       +---Slider
+ª   ª   ª   ª   ª       +---Switch
+ª   ª   ª   ª   ª       +---Text
+ª   ª   ª   ª   ª       +---TextInput
+ª   ª   ª   ª   ª       +---UnimplementedComponent
+ª   ª   ª   ª   ª       +---UnimplementedView
+ª   ª   ª   ª   ª       +---View
+ª   ª   ª   ª   +---Surface
+ª   ª   ª   ª   +---Utils
+ª   ª   ª   +---FBReactNativeSpec
+ª   ª   ª   +---Inspector
+ª   ª   ª   +---Modules
+ª   ª   ª   +---Profiler
+ª   ª   ª   +---Tests
+ª   ª   ª   ª   +---Mounting
+ª   ª   ª   ª   +---Text
+ª   ª   ª   +---UIUtils
+ª   ª   ª   +---Views
+ª   ª   ª       +---RefreshControl
+ª   ª   ª       +---SafeAreaView
+ª   ª   ª       +---ScrollView
+ª   ª   +---ReactAndroid
+ª   ª   ª   +---cmake-utils
+ª   ª   ª   +---hermes-engine
+ª   ª   ª   +---libs
+ª   ª   ª   +---src
+ª   ª   ª       +---main
+ª   ª   ª           +---java
+ª   ª   ª           ª   +---com
+ª   ª   ª           ª       +---facebook
+ª   ª   ª           ª           +---debug
+ª   ª   ª           ª           ª   +---debugoverlay
+ª   ª   ª           ª           ª   ª   +---model
+ª   ª   ª           ª           ª   +---holder
+ª   ª   ª           ª           ª   +---tags
+ª   ª   ª           ª           +---hermes
+ª   ª   ª           ª           ª   +---instrumentation
+ª   ª   ª           ª           ª   +---reactexecutor
+ª   ª   ª           ª           ª   +---unicode
+ª   ª   ª           ª           +---perftest
+ª   ª   ª           ª           +---proguard
+ª   ª   ª           ª           ª   +---annotations
+ª   ª   ª           ª           +---react
+ª   ª   ª           ª           ª   +---animated
+ª   ª   ª           ª           ª   +---bridge
+ª   ª   ª           ª           ª   ª   +---queue
+ª   ª   ª           ª           ª   +---common
+ª   ª   ª           ª           ª   ª   +---annotations
+ª   ª   ª           ª           ª   ª   +---build
+ª   ª   ª           ª           ª   ª   +---futures
+ª   ª   ª           ª           ª   ª   +---mapbuffer
+ª   ª   ª           ª           ª   ª   ª   +---jni
+ª   ª   ª           ª           ª   ª   ª       +---react
+ª   ª   ª           ª           ª   ª   ª           +---common
+ª   ª   ª           ª           ª   ª   ª               +---mapbuffer
+ª   ª   ª           ª           ª   ª   +---network
+ª   ª   ª           ª           ª   +---config
+ª   ª   ª           ª           ª   +---devsupport
+ª   ª   ª           ª           ª   ª   +---interfaces
+ª   ª   ª           ª           ª   +---fabric
+ª   ª   ª           ª           ª   ª   +---events
+ª   ª   ª           ª           ª   ª   +---jni
+ª   ª   ª           ª           ª   ª   +---mounting
+ª   ª   ª           ª           ª   ª       +---mountitems
+ª   ª   ª           ª           ª   +---jscexecutor
+ª   ª   ª           ª           ª   +---jstasks
+ª   ª   ª           ª           ª   +---module
+ª   ª   ª           ª           ª   ª   +---annotations
+ª   ª   ª           ª           ª   ª   +---model
+ª   ª   ª           ª           ª   ª   +---processing
+ª   ª   ª           ª           ª   +---modules
+ª   ª   ª           ª           ª   ª   +---accessibilityinfo
+ª   ª   ª           ª           ª   ª   +---appearance
+ª   ª   ª           ª           ª   ª   +---appregistry
+ª   ª   ª           ª           ª   ª   +---appstate
+ª   ª   ª           ª           ª   ª   +---blob
+ª   ª   ª           ª           ª   ª   ª   +---jni
+ª   ª   ª           ª           ª   ª   +---bundleloader
+ª   ª   ª           ª           ª   ª   +---camera
+ª   ª   ª           ª           ª   ª   +---clipboard
+ª   ª   ª           ª           ª   ª   +---common
+ª   ª   ª           ª           ª   ª   +---core
+ª   ª   ª           ª           ª   ª   +---debug
+ª   ª   ª           ª           ª   ª   ª   +---interfaces
+ª   ª   ª           ª           ª   ª   +---deviceinfo
+ª   ª   ª           ª           ª   ª   +---dialog
+ª   ª   ª           ª           ª   ª   +---fabric
+ª   ª   ª           ª           ª   ª   +---fresco
+ª   ª   ª           ª           ª   ª   +---i18nmanager
+ª   ª   ª           ª           ª   ª   +---image
+ª   ª   ª           ª           ª   ª   +---intent
+ª   ª   ª           ª           ª   ª   +---network
+ª   ª   ª           ª           ª   ª   +---permissions
+ª   ª   ª           ª           ª   ª   +---share
+ª   ª   ª           ª           ª   ª   +---sound
+ª   ª   ª           ª           ª   ª   +---statusbar
+ª   ª   ª           ª           ª   ª   +---storage
+ª   ª   ª           ª           ª   ª   +---systeminfo
+ª   ª   ª           ª           ª   ª   +---toast
+ª   ª   ª           ª           ª   ª   +---vibration
+ª   ª   ª           ª           ª   ª   +---websocket
+ª   ª   ª           ª           ª   +---packagerconnection
+ª   ª   ª           ª           ª   +---processing
+ª   ª   ª           ª           ª   +---reactperflogger
+ª   ª   ª           ª           ª   ª   +---jni
+ª   ª   ª           ª           ª   ª       +---reactperflogger
+ª   ª   ª           ª           ª   +---shell
+ª   ª   ª           ª           ª   +---surface
+ª   ª   ª           ª           ª   +---touch
+ª   ª   ª           ª           ª   +---turbomodule
+ª   ª   ª           ª           ª   ª   +---core
+ª   ª   ª           ª           ª   ª       +---interfaces
+ª   ª   ª           ª           ª   ª       +---jni
+ª   ª   ª           ª           ª   ª           +---ReactCommon
+ª   ª   ª           ª           ª   +---uimanager
+ª   ª   ª           ª           ª   ª   +---annotations
+ª   ª   ª           ª           ª   ª   +---common
+ª   ª   ª           ª           ª   ª   +---debug
+ª   ª   ª           ª           ª   ª   +---events
+ª   ª   ª           ª           ª   ª   +---jni
+ª   ª   ª           ª           ª   ª   +---layoutanimation
+ª   ª   ª           ª           ª   ª   +---util
+ª   ª   ª           ª           ª   +---util
+ª   ª   ª           ª           ª   +---views
+ª   ª   ª           ª           ª       +---common
+ª   ª   ª           ª           ª       +---drawer
+ª   ª   ª           ª           ª       ª   +---events
+ª   ª   ª           ª           ª       +---image
+ª   ª   ª           ª           ª       +---imagehelper
+ª   ª   ª           ª           ª       +---modal
+ª   ª   ª           ª           ª       +---progressbar
+ª   ª   ª           ª           ª       +---scroll
+ª   ª   ª           ª           ª       +---slider
+ª   ª   ª           ª           ª       +---swiperefresh
+ª   ª   ª           ª           ª       +---switchview
+ª   ª   ª           ª           ª       +---text
+ª   ª   ª           ª           ª       ª   +---frescosupport
+ª   ª   ª           ª           ª       +---textinput
+ª   ª   ª           ª           ª       +---unimplementedview
+ª   ª   ª           ª           ª       +---view
+ª   ª   ª           ª           +---systrace
+ª   ª   ª           ª           +---yoga
+ª   ª   ª           +---jni
+ª   ª   ª           ª   +---first-party
+ª   ª   ª           ª   ª   +---fb
+ª   ª   ª           ª   ª   ª   +---include
+ª   ª   ª           ª   ª   ª       +---fb
+ª   ª   ª           ª   ª   +---fbgloginit
+ª   ª   ª           ª   ª   ª   +---fb
+ª   ª   ª           ª   ª   +---fbjni
+ª   ª   ª           ª   ª   +---hermes
+ª   ª   ª           ª   ª   +---jni-hack
+ª   ª   ª           ª   ª   ª   +---real
+ª   ª   ª           ª   ª   +---yogajni
+ª   ª   ª           ª   ª       +---jni
+ª   ª   ª           ª   +---prebuilt
+ª   ª   ª           ª   ª   +---lib
+ª   ª   ª           ª   +---react
+ª   ª   ª           ª   ª   +---jni
+ª   ª   ª           ª   ª   +---perftests
+ª   ª   ª           ª   +---third-party
+ª   ª   ª           ª       +---boost
+ª   ª   ª           ª       ª   +---asm
+ª   ª   ª           ª       ª       +---arm64-v8a
+ª   ª   ª           ª       ª       +---armeabi-v7a
+ª   ª   ª           ª       ª       +---x86
+ª   ª   ª           ª       ª       +---x86_64
+ª   ª   ª           ª       +---double-conversion
+ª   ª   ª           ª       +---fmt
+ª   ª   ª           ª       +---folly
+ª   ª   ª           ª       +---glibc
+ª   ª   ª           ª       +---glog
+ª   ª   ª           ª       +---jsc
+ª   ª   ª           ª       +---libevent
+ª   ª   ª           +---libraries
+ª   ª   ª           ª   +---fbcore
+ª   ª   ª           ª   ª   +---src
+ª   ª   ª           ª   ª       +---main
+ª   ª   ª           ª   ª           +---java
+ª   ª   ª           ª   ª               +---com
+ª   ª   ª           ª   ª                   +---facebook
+ª   ª   ª           ª   ª                       +---common
+ª   ª   ª           ª   ª                           +---logging
+ª   ª   ª           ª   +---fbjni
+ª   ª   ª           ª   +---fresco
+ª   ª   ª           ª   ª   +---fresco-react-native
+ª   ª   ª           ª   +---soloader
+ª   ª   ª           ª       +---java
+ª   ª   ª           ª           +---com
+ª   ª   ª           ª               +---facebook
+ª   ª   ª           ª                   +---soloader
+ª   ª   ª           +---res
+ª   ª   ª               +---devsupport
+ª   ª   ª               ª   +---anim
+ª   ª   ª               ª   +---drawable
+ª   ª   ª               ª   +---layout
+ª   ª   ª               ª   +---values
+ª   ª   ª               ª   +---values-af
+ª   ª   ª               ª   +---values-ar
+ª   ª   ª               ª   +---values-as
+ª   ª   ª               ª   +---values-az
+ª   ª   ª               ª   +---values-bg
+ª   ª   ª               ª   +---values-bn
+ª   ª   ª               ª   +---values-bs
+ª   ª   ª               ª   +---values-ca
+ª   ª   ª               ª   +---values-cb
+ª   ª   ª               ª   +---values-cs
+ª   ª   ª               ª   +---values-da
+ª   ª   ª               ª   +---values-de
+ª   ª   ª               ª   +---values-el
+ª   ª   ª               ª   +---values-en-rGB
+ª   ª   ª               ª   +---values-es
+ª   ª   ª               ª   +---values-es-rES
+ª   ª   ª               ª   +---values-et
+ª   ª   ª               ª   +---values-fa
+ª   ª   ª               ª   +---values-fb
+ª   ª   ª               ª   +---values-fb-rLS
+ª   ª   ª               ª   +---values-fi
+ª   ª   ª               ª   +---values-fr
+ª   ª   ª               ª   +---values-fr-rCA
+ª   ª   ª               ª   +---values-gu
+ª   ª   ª               ª   +---values-hi
+ª   ª   ª               ª   +---values-hr
+ª   ª   ª               ª   +---values-hu
+ª   ª   ª               ª   +---values-in
+ª   ª   ª               ª   +---values-is
+ª   ª   ª               ª   +---values-it
+ª   ª   ª               ª   +---values-iw
+ª   ª   ª               ª   +---values-ja
+ª   ª   ª               ª   +---values-ka
+ª   ª   ª               ª   +---values-km
+ª   ª   ª               ª   +---values-kn
+ª   ª   ª               ª   +---values-ko
+ª   ª   ª               ª   +---values-lo
+ª   ª   ª               ª   +---values-lt
+ª   ª   ª               ª   +---values-lv
+ª   ª   ª               ª   +---values-mk
+ª   ª   ª               ª   +---values-ml
+ª   ª   ª               ª   +---values-mn
+ª   ª   ª               ª   +---values-mr
+ª   ª   ª               ª   +---values-ms
+ª   ª   ª               ª   +---values-my
+ª   ª   ª               ª   +---values-nb
+ª   ª   ª               ª   +---values-ne
+ª   ª   ª               ª   +---values-nl
+ª   ª   ª               ª   +---values-pa
+ª   ª   ª               ª   +---values-pl
+ª   ª   ª               ª   +---values-pt
+ª   ª   ª               ª   +---values-pt-rPT
+ª   ª   ª               ª   +---values-qz
+ª   ª   ª               ª   +---values-ro
+ª   ª   ª               ª   +---values-ru
+ª   ª   ª               ª   +---values-si
+ª   ª   ª               ª   +---values-sk
+ª   ª   ª               ª   +---values-sl
+ª   ª   ª               ª   +---values-sn
+ª   ª   ª               ª   +---values-sq
+ª   ª   ª               ª   +---values-sr
+ª   ª   ª               ª   +---values-sv
+ª   ª   ª               ª   +---values-sw
+ª   ª   ª               ª   +---values-ta
+ª   ª   ª               ª   +---values-te
+ª   ª   ª               ª   +---values-th
+ª   ª   ª               ª   +---values-tl
+ª   ª   ª               ª   +---values-tr
+ª   ª   ª               ª   +---values-uk
+ª   ª   ª               ª   +---values-ur
+ª   ª   ª               ª   +---values-vi
+ª   ª   ª               ª   +---values-wo
+ª   ª   ª               ª   +---values-zh-rCN
+ª   ª   ª               ª   +---values-zh-rHK
+ª   ª   ª               ª   +---values-zh-rTW
+ª   ª   ª               ª   +---values-zu
+ª   ª   ª               ª   +---xml
+ª   ª   ª               +---shell
+ª   ª   ª               ª   +---values
+ª   ª   ª               +---systeminfo
+ª   ª   ª               ª   +---values
+ª   ª   ª               +---views
+ª   ª   ª                   +---modal
+ª   ª   ª                   ª   +---anim
+ª   ª   ª                   ª   +---values
+ª   ª   ª                   +---uimanager
+ª   ª   ª                       +---values
+ª   ª   +---ReactCommon
+ª   ª   ª   +---butter
+ª   ª   ª   +---callinvoker
+ª   ª   ª   ª   +---ReactCommon
+ª   ª   ª   +---cxxreact
+ª   ª   ª   ª   +---tests
+ª   ª   ª   +---hermes
+ª   ª   ª   ª   +---executor
+ª   ª   ª   ª   +---inspector
+ª   ª   ª   ª       +---chrome
+ª   ª   ª   ª       ª   +---cli
+ª   ª   ª   ª       ª   +---tests
+ª   ª   ª   ª       +---detail
+ª   ª   ª   ª       ª   +---tests
+ª   ª   ª   ª       +---docs
+ª   ª   ª   ª       +---tests
+ª   ª   ª   ª       +---tools
+ª   ª   ª   ª           +---msggen
+ª   ª   ª   ª           ª   +---src
+ª   ª   ª   ª           ª   +---__tests__
+ª   ª   ª   ª           +---sandcastle
+ª   ª   ª   +---jsengineinstance
+ª   ª   ª   +---jsi
+ª   ª   ª   ª   +---jsi
+ª   ª   ª   ª       +---test
+ª   ª   ª   +---jsiexecutor
+ª   ª   ª   ª   +---jsireact
+ª   ª   ª   +---jsinspector
+ª   ª   ª   +---libraries
+ª   ª   ª   ª   +---fbcore
+ª   ª   ª   ª       +---src
+ª   ª   ª   ª           +---test
+ª   ª   ª   ª               +---java
+ª   ª   ª   ª                   +---com
+ª   ª   ª   ª                       +---facebook
+ª   ª   ª   ª                           +---powermock
+ª   ª   ª   +---logger
+ª   ª   ª   +---react
+ª   ª   ª   ª   +---bridging
+ª   ª   ª   ª   ª   +---tests
+ª   ª   ª   ª   +---config
+ª   ª   ª   ª   +---debug
+ª   ª   ª   ª   +---nativemodule
+ª   ª   ª   ª   ª   +---core
+ª   ª   ª   ª   ª   ª   +---platform
+ª   ª   ª   ª   ª   ª   ª   +---android
+ª   ª   ª   ª   ª   ª   ª   ª   +---ReactCommon
+ª   ª   ª   ª   ª   ª   ª   +---ios
+ª   ª   ª   ª   ª   ª   +---ReactCommon
+ª   ª   ª   ª   ª   +---samples
+ª   ª   ª   ª   ª       +---platform
+ª   ª   ª   ª   ª       ª   +---android
+ª   ª   ª   ª   ª       ª   ª   +---ReactCommon
+ª   ª   ª   ª   ª       ª   +---ios
+ª   ª   ª   ª   ª       +---ReactCommon
+ª   ª   ª   ª   +---renderer
+ª   ª   ª   ª   ª   +---animations
+ª   ª   ª   ª   ª   ª   +---tests
+ª   ª   ª   ª   ª   +---attributedstring
+ª   ª   ª   ª   ª   ª   +---tests
+ª   ª   ª   ª   ª   +---componentregistry
+ª   ª   ª   ª   ª   ª   +---native
+ª   ª   ª   ª   ª   +---components
+ª   ª   ª   ª   ª   ª   +---image
+ª   ª   ª   ª   ª   ª   ª   +---tests
+ª   ª   ª   ª   ª   ª   +---inputaccessory
+ª   ª   ª   ª   ª   ª   +---legacyviewmanagerinterop
+ª   ª   ª   ª   ª   ª   +---modal
+ª   ª   ª   ª   ª   ª   +---progressbar
+ª   ª   ª   ª   ª   ª   ª   +---android
+ª   ª   ª   ª   ª   ª   ª       +---react
+ª   ª   ª   ª   ª   ª   ª           +---renderer
+ª   ª   ª   ª   ª   ª   ª               +---components
+ª   ª   ª   ª   ª   ª   ª                   +---progressbar
+ª   ª   ª   ª   ª   ª   +---root
+ª   ª   ª   ª   ª   ª   ª   +---tests
+ª   ª   ª   ª   ª   ª   +---safeareaview
+ª   ª   ª   ª   ª   ª   +---scrollview
+ª   ª   ª   ª   ª   ª   ª   +---tests
+ª   ª   ª   ª   ª   ª   +---slider
+ª   ª   ª   ª   ª   ª   ª   +---platform
+ª   ª   ª   ª   ª   ª   ª   ª   +---android
+ª   ª   ª   ª   ª   ª   ª   ª   ª   +---react
+ª   ª   ª   ª   ª   ª   ª   ª   ª       +---renderer
+ª   ª   ª   ª   ª   ª   ª   ª   ª           +---components
+ª   ª   ª   ª   ª   ª   ª   ª   ª               +---slider
+ª   ª   ª   ª   ª   ª   ª   ª   +---ios
+ª   ª   ª   ª   ª   ª   ª   +---tests
+ª   ª   ª   ª   ª   ª   +---switch
+ª   ª   ª   ª   ª   ª   ª   +---androidswitch
+ª   ª   ª   ª   ª   ª   ª       +---react
+ª   ª   ª   ª   ª   ª   ª           +---renderer
+ª   ª   ª   ª   ª   ª   ª               +---components
+ª   ª   ª   ª   ª   ª   ª                   +---androidswitch
+ª   ª   ª   ª   ª   ª   +---text
+ª   ª   ª   ª   ª   ª   ª   +---tests
+ª   ª   ª   ª   ª   ª   +---textinput
+ª   ª   ª   ª   ª   ª   ª   +---androidtextinput
+ª   ª   ª   ª   ª   ª   ª   ª   +---react
+ª   ª   ª   ª   ª   ª   ª   ª       +---renderer
+ª   ª   ª   ª   ª   ª   ª   ª           +---components
+ª   ª   ª   ª   ª   ª   ª   ª               +---androidtextinput
+ª   ª   ª   ª   ª   ª   ª   +---iostextinput
+ª   ª   ª   ª   ª   ª   +---unimplementedview
+ª   ª   ª   ª   ª   ª   +---view
+ª   ª   ª   ª   ª   ª       +---tests
+ª   ª   ª   ª   ª   +---core
+ª   ª   ª   ª   ª   ª   +---tests
+ª   ª   ª   ª   ª   ª       +---benchmarks
+ª   ª   ª   ª   ª   +---debug
+ª   ª   ª   ª   ª   ª   +---tests
+ª   ª   ª   ª   ª   +---element
+ª   ª   ª   ª   ª   ª   +---tests
+ª   ª   ª   ª   ª   +---graphics
+ª   ª   ª   ª   ª   ª   +---platform
+ª   ª   ª   ª   ª   ª   ª   +---android
+ª   ª   ª   ª   ª   ª   ª   ª   +---react
+ª   ª   ª   ª   ª   ª   ª   ª       +---renderer
+ª   ª   ª   ª   ª   ª   ª   ª           +---graphics
+ª   ª   ª   ª   ª   ª   ª   +---cxx
+ª   ª   ª   ª   ª   ª   ª   ª   +---react
+ª   ª   ª   ª   ª   ª   ª   ª       +---renderer
+ª   ª   ª   ª   ª   ª   ª   ª           +---graphics
+ª   ª   ª   ª   ª   ª   ª   +---ios
+ª   ª   ª   ª   ª   ª   +---tests
+ª   ª   ª   ª   ª   +---imagemanager
+ª   ª   ª   ª   ª   ª   +---platform
+ª   ª   ª   ª   ª   ª   ª   +---cxx
+ª   ª   ª   ª   ª   ª   ª   ª   +---react
+ª   ª   ª   ª   ª   ª   ª   ª       +---renderer
+ª   ª   ª   ª   ª   ª   ª   ª           +---imagemanager
+ª   ª   ª   ª   ª   ª   ª   +---ios
+ª   ª   ª   ª   ª   ª   +---tests
+ª   ª   ª   ª   ª   +---leakchecker
+ª   ª   ª   ª   ª   +---mapbuffer
+ª   ª   ª   ª   ª   ª   +---tests
+ª   ª   ª   ª   ª   +---mounting
+ª   ª   ª   ª   ª   ª   +---tests
+ª   ª   ª   ª   ª   +---runtimescheduler
+ª   ª   ª   ª   ª   ª   +---tests
+ª   ª   ª   ª   ª   +---scheduler
+ª   ª   ª   ª   ª   +---telemetry
+ª   ª   ª   ª   ª   ª   +---tests
+ª   ª   ª   ª   ª   +---templateprocessor
+ª   ª   ª   ª   ª   ª   +---tests
+ª   ª   ª   ª   ª   +---textlayoutmanager
+ª   ª   ª   ª   ª   ª   +---platform
+ª   ª   ª   ª   ª   ª   ª   +---android
+ª   ª   ª   ª   ª   ª   ª   ª   +---react
+ª   ª   ª   ª   ª   ª   ª   ª       +---renderer
+ª   ª   ª   ª   ª   ª   ª   ª           +---textlayoutmanager
+ª   ª   ª   ª   ª   ª   ª   +---cxx
+ª   ª   ª   ª   ª   ª   ª   +---ios
+ª   ª   ª   ª   ª   ª   +---tests
+ª   ª   ª   ª   ª   +---timeline
+ª   ª   ª   ª   ª   +---uimanager
+ª   ª   ª   ª   ª       +---tests
+ª   ª   ª   ª   +---test_utils
+ª   ª   ª   ª   +---utils
+ª   ª   ª   +---reactperflogger
+ª   ª   ª   ª   +---reactperflogger
+ª   ª   ª   +---runtimeexecutor
+ª   ª   ª   ª   +---ReactCommon
+ª   ª   ª   +---yoga
+ª   ª   ª       +---yoga
+ª   ª   ª           +---event
+ª   ª   ª           +---internal
+ª   ª   +---scripts
+ª   ª   ª   +---cocoapods
+ª   ª   ª   +---codegen
+ª   ª   ª   +---hermes
+ª   ª   ª   +---react_native_pods_utils
+ª   ª   ª   +---xcode
+ª   ª   +---sdks
+ª   ª   ª   +---hermes-engine
+ª   ª   ª   ª   +---utils
+ª   ª   ª   +---hermesc
+ª   ª   ª       +---linux64-bin
+ª   ª   ª       +---osx-bin
+ª   ª   ª       +---win64-bin
+ª   ª   +---template
+ª   ª   ª   +---android
+ª   ª   ª   ª   +---app
+ª   ª   ª   ª   ª   +---src
+ª   ª   ª   ª   ª       +---debug
+ª   ª   ª   ª   ª       ª   +---java
+ª   ª   ª   ª   ª       ª       +---com
+ª   ª   ª   ª   ª       ª           +---helloworld
+ª   ª   ª   ª   ª       +---main
+ª   ª   ª   ª   ª           +---java
+ª   ª   ª   ª   ª           ª   +---com
+ª   ª   ª   ª   ª           ª       +---helloworld
+ª   ª   ª   ª   ª           ª           +---newarchitecture
+ª   ª   ª   ª   ª           ª               +---components
+ª   ª   ª   ª   ª           ª               +---modules
+ª   ª   ª   ª   ª           +---jni
+ª   ª   ª   ª   ª           +---res
+ª   ª   ª   ª   ª               +---drawable
+ª   ª   ª   ª   ª               +---mipmap-hdpi
+ª   ª   ª   ª   ª               +---mipmap-mdpi
+ª   ª   ª   ª   ª               +---mipmap-xhdpi
+ª   ª   ª   ª   ª               +---mipmap-xxhdpi
+ª   ª   ª   ª   ª               +---mipmap-xxxhdpi
+ª   ª   ª   ª   ª               +---values
+ª   ª   ª   ª   +---gradle
+ª   ª   ª   ª       +---wrapper
+ª   ª   ª   +---ios
+ª   ª   ª   ª   +---HelloWorld
+ª   ª   ª   ª   ª   +---Images.xcassets
+ª   ª   ª   ª   ª       +---AppIcon.appiconset
+ª   ª   ª   ª   +---HelloWorld.xcodeproj
+ª   ª   ª   ª   ª   +---xcshareddata
+ª   ª   ª   ª   ª       +---xcschemes
+ª   ª   ª   ª   +---HelloWorldTests
+ª   ª   ª   +---_bundle
+ª   ª   ª   +---__tests__
+ª   ª   +---third-party-podspecs
+ª   +---react-native-codegen
+ª   ª   +---lib
+ª   ª       +---cli
+ª   ª       ª   +---combine
+ª   ª       ª   +---generators
+ª   ª       ª   +---parser
+ª   ª       +---generators
+ª   ª       ª   +---components
+ª   ª       ª   ª   +---GeneratePropsJavaPojo
+ª   ª       ª   ª   +---__test_fixtures__
+ª   ª       ª   +---modules
+ª   ª       ª   ª   +---GenerateModuleObjCpp
+ª   ª       ª   ª   ª   +---header
+ª   ª       ª   ª   ª   +---source
+ª   ª       ª   ª   +---__test_fixtures__
+ª   ª       ª   +---__test_fixtures__
+ª   ª       +---parsers
+ª   ª           +---consistency
+ª   ª           +---flow
+ª   ª           ª   +---components
+ª   ª           ª   ª   +---__test_fixtures__
+ª   ª           ª   +---modules
+ª   ª           ª       +---__test_fixtures__
+ª   ª           +---schema
+ª   ª           +---typescript
+ª   ª               +---components
+ª   ª               ª   +---__test_fixtures__
+ª   ª               +---modules
+ª   ª                   +---__test_fixtures__
+ª   +---react-native-elements
+ª   ª   +---dist
+ª   ª   ª   +---avatar
+ª   ª   ª   +---badge
+ª   ª   ª   +---bottomSheet
+ª   ª   ª   +---buttons
+ª   ª   ª   +---card
+ª   ª   ª   +---checkbox
+ª   ª   ª   +---config
+ª   ª   ª   +---dialog
+ª   ª   ª   +---divider
+ª   ª   ª   +---header
+ª   ª   ª   +---helpers
+ª   ª   ª   +---icons
+ª   ª   ª   +---image
+ª   ª   ª   +---input
+ª   ª   ª   +---linearProgress
+ª   ª   ª   +---list
+ª   ª   ª   +---overlay
+ª   ª   ª   +---pricing
+ª   ª   ª   +---searchbar
+ª   ª   ª   +---slider
+ª   ª   ª   +---social
+ª   ª   ª   +---switch
+ª   ª   ª   +---tab
+ª   ª   ª   +---text
+ª   ª   ª   +---tile
+ª   ª   ª   +---tooltip
+ª   ª   +---node_modules
+ª   ª       +---deepmerge
+ª   ª           +---dist
+ª   +---react-native-gradle-plugin
+ª   ª   +---gradle
+ª   ª   ª   +---wrapper
+ª   ª   +---src
+ª   ª       +---main
+ª   ª           +---kotlin
+ª   ª               +---com
+ª   ª                   +---facebook
+ª   ª                       +---react
+ª   ª                           +---model
+ª   ª                           +---tasks
+ª   ª                           ª   +---internal
+ª   ª                           +---utils
+ª   +---react-native-ratings
+ª   ª   +---.github
+ª   ª   ª   +---workflows
+ª   ª   +---.husky
+ª   ª   +---dist
+ª   ª   ª   +---components
+ª   ª   ª   +---images
+ª   ª   ª       +---images
+ª   ª   +---src
+ª   ª       +---components
+ª   ª       +---images
+ª   +---react-native-safe-area-context
+ª   ª   +---android
+ª   ª   ª   +---src
+ª   ª   ª       +---fabric
+ª   ª   ª       ª   +---java
+ª   ª   ª       ª       +---com
+ª   ª   ª       ª           +---th3rdwave
+ª   ª   ª       ª               +---safeareacontext
+ª   ª   ª       +---main
+ª   ª   ª       ª   +---java
+ª   ª   ª       ª   ª   +---com
+ª   ª   ª       ª   ª       +---th3rdwave
+ª   ª   ª       ª   ª           +---safeareacontext
+ª   ª   ª       ª   +---jni
+ª   ª   ª       +---paper
+ª   ª   ª           +---java
+ª   ª   ª               +---com
+ª   ª   ª                   +---facebook
+ª   ª   ª                   ª   +---react
+ª   ª   ª                   ª       +---viewmanagers
+ª   ª   ª                   +---th3rdwave
+ª   ª   ª                       +---safeareacontext
+ª   ª   +---common
+ª   ª   ª   +---cpp
+ª   ª   ª       +---react
+ª   ª   ª           +---renderer
+ª   ª   ª               +---components
+ª   ª   ª                   +---safeareacontext
+ª   ª   +---ios
+ª   ª   ª   +---Fabric
+ª   ª   ª   +---RNSafeAreaContext.xcodeproj
+ª   ª   ª       +---project.xcworkspace
+ª   ª   ª       ª   +---xcshareddata
+ª   ª   ª       ª   +---xcuserdata
+ª   ª   ª       ª       +---janicduplessis.xcuserdatad
+ª   ª   ª       +---xcuserdata
+ª   ª   ª           +---janicduplessis.xcuserdatad
+ª   ª   ª               +---xcschemes
+ª   ª   +---jest
+ª   ª   +---lib
+ª   ª   ª   +---commonjs
+ª   ª   ª   ª   +---specs
+ª   ª   ª   +---module
+ª   ª   ª   ª   +---specs
+ª   ª   ª   +---typescript
+ª   ª   ª       +---specs
+ª   ª   +---src
+ª   ª       +---specs
+ª   +---react-native-screens
+ª   ª   +---android
+ª   ª   ª   +---src
+ª   ª   ª       +---fabric
+ª   ª   ª       ª   +---java
+ª   ª   ª       ª       +---com
+ª   ª   ª       ª           +---swmansion
+ª   ª   ª       ª               +---rnscreens
+ª   ª   ª       +---main
+ª   ª   ª       ª   +---java
+ª   ª   ª       ª   ª   +---com
+ª   ª   ª       ª   ª       +---swmansion
+ª   ª   ª       ª   ª           +---rnscreens
+ª   ª   ª       ª   ª               +---events
+ª   ª   ª       ª   +---jni
+ª   ª   ª       ª   +---res
+ª   ª   ª       ª       +---anim
+ª   ª   ª       +---paper
+ª   ª   ª           +---java
+ª   ª   ª               +---com
+ª   ª   ª                   +---facebook
+ª   ª   ª                   ª   +---react
+ª   ª   ª                   ª       +---viewmanagers
+ª   ª   ª                   +---swmansion
+ª   ª   ª                       +---rnscreens
+ª   ª   +---common
+ª   ª   ª   +---cpp
+ª   ª   ª       +---react
+ª   ª   ª           +---renderer
+ª   ª   ª               +---components
+ª   ª   ª                   +---rnscreens
+ª   ª   +---createNativeStackNavigator
+ª   ª   +---ios
+ª   ª   ª   +---RNScreens.xcodeproj
+ª   ª   ª   +---utils
+ª   ª   +---lib
+ª   ª   ª   +---commonjs
+ª   ª   ª   ª   +---fabric
+ª   ª   ª   ª   +---native-stack
+ª   ª   ª   ª   ª   +---navigators
+ª   ª   ª   ª   ª   +---utils
+ª   ª   ª   ª   ª   +---views
+ª   ª   ª   ª   +---reanimated
+ª   ª   ª   +---module
+ª   ª   ª   ª   +---fabric
+ª   ª   ª   ª   +---native-stack
+ª   ª   ª   ª   ª   +---navigators
+ª   ª   ª   ª   ª   +---utils
+ª   ª   ª   ª   ª   +---views
+ª   ª   ª   ª   +---reanimated
+ª   ª   ª   +---typescript
+ª   ª   ª       +---native-stack
+ª   ª   ª       ª   +---navigators
+ª   ª   ª       ª   +---utils
+ª   ª   ª       ª   +---views
+ª   ª   ª       +---reanimated
+ª   ª   +---native-stack
+ª   ª   +---reanimated
+ª   ª   +---src
+ª   ª   ª   +---fabric
+ª   ª   ª   +---native-stack
+ª   ª   ª   ª   +---navigators
+ª   ª   ª   ª   +---utils
+ª   ª   ª   ª   +---views
+ª   ª   ª   +---reanimated
+ª   ª   +---windows
+ª   ª       +---RNScreens
+ª   +---react-native-size-matters
+ª   ª   +---lib
+ª   ª       +---extend
+ª   +---react-native-vector-icons
+ª   ª   +---android
+ª   ª   ª   +---src
+ª   ª   ª       +---main
+ª   ª   ª           +---java
+ª   ª   ª               +---com
+ª   ª   ª                   +---oblador
+ª   ª   ª                       +---vectoricons
+ª   ª   +---bin
+ª   ª   +---dist
+ª   ª   ª   +---glyphmaps
+ª   ª   ª   +---lib
+ª   ª   +---Fonts
+ª   ª   +---glyphmaps
+ª   ª   +---lib
+ª   ª   +---node_modules
+ª   ª   ª   +---cliui
+ª   ª   ª   ª   +---build
+ª   ª   ª   ª       +---lib
+ª   ª   ª   +---strip-ansi
+ª   ª   ª   +---y18n
+ª   ª   ª   ª   +---build
+ª   ª   ª   ª       +---lib
+ª   ª   ª   ª           +---platform-shims
+ª   ª   ª   +---yargs
+ª   ª   ª   ª   +---build
+ª   ª   ª   ª   ª   +---lib
+ª   ª   ª   ª   ª       +---typings
+ª   ª   ª   ª   ª       +---utils
+ª   ª   ª   ª   +---helpers
+ª   ª   ª   ª   +---lib
+ª   ª   ª   ª   ª   +---platform-shims
+ª   ª   ª   ª   +---locales
+ª   ª   ª   +---yargs-parser
+ª   ª   ª       +---build
+ª   ª   ª           +---lib
+ª   ª   +---RNVectorIcons.xcodeproj
+ª   ª   ª   +---project.xcworkspace
+ª   ª   ª       +---xcshareddata
+ª   ª   ª       +---xcuserdata
+ª   ª   ª           +---joel.xcuserdatad
+ª   ª   +---RNVectorIconsManager
+ª   ª   +---templates
+ª   +---react-refresh
+ª   ª   +---cjs
+ª   +---react-shallow-renderer
+ª   ª   +---cjs
+ª   ª   +---esm
+ª   ª   +---umd
+ª   +---readable-stream
+ª   ª   +---doc
+ª   ª   ª   +---wg-meetings
+ª   ª   +---lib
+ª   ª       +---internal
+ª   ª           +---streams
+ª   +---readline
+ª   ª   +---test
+ª   ª       +---fixtures
+ª   +---recast
+ª   ª   +---.github
+ª   ª   ª   +---workflows
+ª   ª   +---example
+ª   ª   +---lib
+ª   ª   +---node_modules
+ª   ª   ª   +---source-map
+ª   ª   ª       +---dist
+ª   ª   ª       +---lib
+ª   ª   +---parsers
+ª   +---regenerate
+ª   +---regenerate-unicode-properties
+ª   ª   +---Binary_Property
+ª   ª   +---General_Category
+ª   ª   +---Property_of_Strings
+ª   ª   +---Script
+ª   ª   +---Script_Extensions
+ª   +---regenerator-runtime
+ª   +---regenerator-transform
+ª   ª   +---lib
+ª   ª   +---src
+ª   +---regex-not
+ª   +---regexpu-core
+ª   ª   +---data
+ª   +---regjsparser
+ª   ª   +---bin
+ª   ª   +---node_modules
+ª   ª       +---.bin
+ª   ª       +---jsesc
+ª   ª           +---bin
+ª   ª           +---man
+ª   +---remove-trailing-slash
+ª   +---repeat-element
+ª   +---repeat-string
+ª   +---require-directory
+ª   +---require-from-string
+ª   +---require-main-filename
+ª   +---requireg
+ª   ª   +---lib
+ª   ª   +---node_modules
+ª   ª   ª   +---resolve
+ª   ª   ª       +---example
+ª   ª   ª       +---lib
+ª   ª   ª       +---test
+ª   ª   ª           +---dotdot
+ª   ª   ª           ª   +---abc
+ª   ª   ª           +---module_dir
+ª   ª   ª           ª   +---xmodules
+ª   ª   ª           ª   ª   +---aaa
+ª   ª   ª           ª   +---ymodules
+ª   ª   ª           ª   ª   +---aaa
+ª   ª   ª           ª   +---zmodules
+ª   ª   ª           ª       +---bbb
+ª   ª   ª           +---node_path
+ª   ª   ª           ª   +---x
+ª   ª   ª           ª   ª   +---aaa
+ª   ª   ª           ª   ª   +---ccc
+ª   ª   ª           ª   +---y
+ª   ª   ª           ª       +---bbb
+ª   ª   ª           ª       +---ccc
+ª   ª   ª           +---pathfilter
+ª   ª   ª           ª   +---deep_ref
+ª   ª   ª           +---precedence
+ª   ª   ª           ª   +---aaa
+ª   ª   ª           ª   +---bbb
+ª   ª   ª           +---resolver
+ª   ª   ª               +---baz
+ª   ª   ª               +---browser_field
+ª   ª   ª               +---dot_main
+ª   ª   ª               +---dot_slash_main
+ª   ª   ª               +---incorrect_main
+ª   ª   ª               +---other_path
+ª   ª   ª               ª   +---lib
+ª   ª   ª               +---quux
+ª   ª   ª               ª   +---foo
+ª   ª   ª               +---same_names
+ª   ª   ª               ª   +---foo
+ª   ª   ª               +---symlinked
+ª   ª   ª               ª   +---_
+ª   ª   ª               ª       +---node_modules
+ª   ª   ª               ª       +---symlink_target
+ª   ª   ª               +---without_basedir
+ª   ª   +---test
+ª   ª       +---fixtures
+ª   ª           +---lib
+ª   ª               +---node_modules
+ª   ª                   +---beaker
+ª   +---requires-port
+ª   +---reselect
+ª   ª   +---dist
+ª   ª   +---es
+ª   ª   ª   +---versionedTypes
+ª   ª   +---lib
+ª   ª   +---src
+ª   ª       +---legacyTypes
+ª   ª       ª   +---ts4.1
+ª   ª       +---versionedTypes
+ª   +---resolve
+ª   ª   +---.github
+ª   ª   +---bin
+ª   ª   +---example
+ª   ª   +---lib
+ª   ª   +---test
+ª   ª       +---dotdot
+ª   ª       ª   +---abc
+ª   ª       +---module_dir
+ª   ª       ª   +---xmodules
+ª   ª       ª   ª   +---aaa
+ª   ª       ª   +---ymodules
+ª   ª       ª   ª   +---aaa
+ª   ª       ª   +---zmodules
+ª   ª       ª       +---bbb
+ª   ª       +---node_path
+ª   ª       ª   +---x
+ª   ª       ª   ª   +---aaa
+ª   ª       ª   ª   +---ccc
+ª   ª       ª   +---y
+ª   ª       ª       +---bbb
+ª   ª       ª       +---ccc
+ª   ª       +---pathfilter
+ª   ª       ª   +---deep_ref
+ª   ª       +---precedence
+ª   ª       ª   +---aaa
+ª   ª       ª   +---bbb
+ª   ª       +---resolver
+ª   ª       ª   +---baz
+ª   ª       ª   +---browser_field
+ª   ª       ª   +---dot_main
+ª   ª       ª   +---dot_slash_main
+ª   ª       ª   +---false_main
+ª   ª       ª   +---incorrect_main
+ª   ª       ª   +---invalid_main
+ª   ª       ª   +---malformed_package_json
+ª   ª       ª   +---multirepo
+ª   ª       ª   ª   +---packages
+ª   ª       ª   ª       +---package-a
+ª   ª       ª   ª       +---package-b
+ª   ª       ª   +---nested_symlinks
+ª   ª       ª   ª   +---mylib
+ª   ª       ª   +---other_path
+ª   ª       ª   ª   +---lib
+ª   ª       ª   +---quux
+ª   ª       ª   ª   +---foo
+ª   ª       ª   +---same_names
+ª   ª       ª   ª   +---foo
+ª   ª       ª   +---symlinked
+ª   ª       ª   ª   +---package
+ª   ª       ª   ª   +---_
+ª   ª       ª   ª       +---node_modules
+ª   ª       ª   ª       +---symlink_target
+ª   ª       ª   +---without_basedir
+ª   ª       +---shadowed_core
+ª   ª           +---node_modules
+ª   ª               +---util
+ª   +---resolve-from
+ª   +---resolve-url
+ª   ª   +---test
+ª   +---restore-cursor
+ª   +---ret
+ª   ª   +---lib
+ª   +---reusify
+ª   ª   +---benchmarks
+ª   +---rimraf
+ª   +---run-parallel
+ª   +---safe-buffer
+ª   +---safe-json-stringify
+ª   ª   +---.idea
+ª   +---safe-regex
+ª   ª   +---example
+ª   ª   +---test
+ª   +---safer-buffer
+ª   +---sax
+ª   ª   +---lib
+ª   +---scheduler
+ª   ª   +---cjs
+ª   ª   +---umd
+ª   +---semver
+ª   ª   +---bin
+ª   +---send
+ª   ª   +---node_modules
+ª   ª       +---.bin
+ª   ª       +---debug
+ª   ª       ª   +---node_modules
+ª   ª       ª   ª   +---ms
+ª   ª       ª   +---src
+ª   ª       +---mime
+ª   ª       ª   +---src
+ª   ª       +---ms
+ª   ª       +---statuses
+ª   +---serialize-error
+ª   +---serve-static
+ª   +---set-blocking
+ª   +---set-value
+ª   ª   +---node_modules
+ª   ª       +---extend-shallow
+ª   ª       +---is-extendable
+ª   +---setimmediate
+ª   +---setprototypeof
+ª   ª   +---test
+ª   +---shallow-clone
+ª   +---shebang-command
+ª   +---shebang-regex
+ª   +---shell-quote
+ª   ª   +---.github
+ª   ª   +---example
+ª   ª   +---test
+ª   +---side-channel
+ª   ª   +---.github
+ª   ª   +---test
+ª   +---signal-exit
+ª   +---simple-plist
+ª   ª   +---dist
+ª   ª   +---node_modules
+ª   ª       +---bplist-parser
+ª   +---simple-swizzle
+ª   ª   +---node_modules
+ª   ª       +---is-arrayish
+ª   +---sisteransi
+ª   ª   +---src
+ª   +---slash
+ª   +---slice-ansi
+ª   +---slugify
+ª   +---snapdragon
+ª   ª   +---lib
+ª   ª   +---node_modules
+ª   ª       +---debug
+ª   ª       ª   +---src
+ª   ª       +---define-property
+ª   ª       +---extend-shallow
+ª   ª       +---is-accessor-descriptor
+ª   ª       ª   +---node_modules
+ª   ª       ª       +---kind-of
+ª   ª       +---is-data-descriptor
+ª   ª       ª   +---node_modules
+ª   ª       ª       +---kind-of
+ª   ª       +---is-descriptor
+ª   ª       +---is-extendable
+ª   ª       +---kind-of
+ª   ª       +---ms
+ª   ª       +---source-map
+ª   ª           +---dist
+ª   ª           +---lib
+ª   +---snapdragon-node
+ª   ª   +---node_modules
+ª   ª       +---define-property
+ª   +---snapdragon-util
+ª   ª   +---node_modules
+ª   ª       +---kind-of
+ª   +---source-map
+ª   ª   +---dist
+ª   ª   +---lib
+ª   +---source-map-resolve
+ª   ª   +---lib
+ª   +---source-map-support
+ª   ª   +---node_modules
+ª   ª       +---source-map
+ª   ª           +---dist
+ª   ª           +---lib
+ª   +---source-map-url
+ª   +---split
+ª   ª   +---examples
+ª   ª   +---test
+ª   +---split-on-first
+ª   +---split-string
+ª   +---sprintf-js
+ª   ª   +---demo
+ª   ª   +---dist
+ª   ª   +---src
+ª   ª   +---test
+ª   +---ssri
+ª   +---stackframe
+ª   ª   +---dist
+ª   +---stacktrace-parser
+ª   ª   +---dist
+ª   ª   +---node_modules
+ª   ª       +---type-fest
+ª   ª           +---source
+ª   +---static-extend
+ª   ª   +---node_modules
+ª   ª       +---define-property
+ª   ª       +---is-accessor-descriptor
+ª   ª       ª   +---node_modules
+ª   ª       ª       +---kind-of
+ª   ª       +---is-data-descriptor
+ª   ª       ª   +---node_modules
+ª   ª       ª       +---kind-of
+ª   ª       +---is-descriptor
+ª   ª       +---kind-of
+ª   +---statuses
+ª   +---stream-buffers
+ª   ª   +---coverage
+ª   ª   ª   +---lcov-report
+ª   ª   ª       +---lib
+ª   ª   +---lib
+ª   +---strict-uri-encode
+ª   +---string-width
+ª   ª   +---node_modules
+ª   ª       +---is-fullwidth-code-point
+ª   ª       +---strip-ansi
+ª   +---string_decoder
+ª   ª   +---lib
+ª   +---strip-ansi
+ª   ª   +---node_modules
+ª   ª       +---ansi-regex
+ª   +---strip-eof
+ª   +---strip-json-comments
+ª   +---structured-headers
+ª   ª   +---browser
+ª   ª   +---dist
+ª   ª   +---src
+ª   +---sucrase
+ª   ª   +---bin
+ª   ª   +---dist
+ª   ª   ª   +---esm
+ª   ª   ª   ª   +---parser
+ª   ª   ª   ª   ª   +---plugins
+ª   ª   ª   ª   ª   ª   +---jsx
+ª   ª   ª   ª   ª   +---tokenizer
+ª   ª   ª   ª   ª   +---traverser
+ª   ª   ª   ª   ª   +---util
+ª   ª   ª   ª   +---transformers
+ª   ª   ª   ª   +---util
+ª   ª   ª   +---parser
+ª   ª   ª   ª   +---plugins
+ª   ª   ª   ª   ª   +---jsx
+ª   ª   ª   ª   +---tokenizer
+ª   ª   ª   ª   +---traverser
+ª   ª   ª   ª   +---util
+ª   ª   ª   +---transformers
+ª   ª   ª   +---types
+ª   ª   ª   ª   +---parser
+ª   ª   ª   ª   ª   +---plugins
+ª   ª   ª   ª   ª   ª   +---jsx
+ª   ª   ª   ª   ª   +---tokenizer
+ª   ª   ª   ª   ª   +---traverser
+ª   ª   ª   ª   ª   +---util
+ª   ª   ª   ª   +---transformers
+ª   ª   ª   ª   +---util
+ª   ª   ª   +---util
+ª   ª   +---node_modules
+ª   ª   ª   +---commander
+ª   ª   ª       +---typings
+ª   ª   +---register
+ª   ª   +---ts-node-plugin
+ª   +---sudo-prompt
+ª   +---supports-color
+ª   +---supports-hyperlinks
+ª   ª   +---node_modules
+ª   ª       +---has-flag
+ª   ª       +---supports-color
+ª   +---supports-preserve-symlinks-flag
+ª   ª   +---.github
+ª   ª   +---test
+ª   +---tar
+ª   ª   +---lib
+ª   ª   +---node_modules
+ª   ª       +---.bin
+ª   ª       +---minipass
+ª   ª       +---mkdirp
+ª   ª       ª   +---bin
+ª   ª       ª   +---lib
+ª   ª       +---yallist
+ª   +---temp
+ª   ª   +---examples
+ª   ª   +---lib
+ª   ª   +---node_modules
+ª   ª   ª   +---.bin
+ª   ª   ª   +---rimraf
+ª   ª   ª       +---test
+ª   ª   +---test
+ª   +---temp-dir
+ª   +---tempy
+ª   ª   +---node_modules
+ª   ª       +---is-stream
+ª   ª       +---type-fest
+ª   ª           +---source
+ª   +---terminal-link
+ª   ª   +---node_modules
+ª   ª       +---ansi-escapes
+ª   ª       +---type-fest
+ª   ª           +---source
+ª   ª           +---ts41
+ª   +---text-table
+ª   ª   +---example
+ª   ª   +---test
+ª   +---thenify
+ª   +---thenify-all
+ª   +---throat
+ª   +---through
+ª   ª   +---test
+ª   +---through2
+ª   +---tmp
+ª   ª   +---lib
+ª   +---tmpl
+ª   ª   +---lib
+ª   +---to-fast-properties
+ª   +---to-object-path
+ª   ª   +---node_modules
+ª   ª       +---kind-of
+ª   +---to-regex
+ª   +---to-regex-range
+ª   +---toidentifier
+ª   +---tr46
+ª   ª   +---lib
+ª   +---traverse
+ª   ª   +---.github
+ª   ª   +---examples
+ª   ª   +---test
+ª   ª       +---lib
+ª   +---ts-interface-checker
+ª   ª   +---dist
+ª   +---tslib
+ª   ª   +---modules
+ª   +---type-fest
+ª   ª   +---source
+ª   +---type-is
+ª   +---ua-parser-js
+ª   ª   +---dist
+ª   ª   +---src
+ª   +---uglify-es
+ª   ª   +---bin
+ª   ª   +---lib
+ª   ª   +---node_modules
+ª   ª   ª   +---commander
+ª   ª   ª   ª   +---typings
+ª   ª   ª   +---source-map
+ª   ª   ª       +---dist
+ª   ª   ª       +---lib
+ª   ª   +---tools
+ª   +---unicode-canonical-property-names-ecmascript
+ª   +---unicode-match-property-ecmascript
+ª   +---unicode-match-property-value-ecmascript
+ª   ª   +---data
+ª   +---unicode-property-aliases-ecmascript
+ª   +---union-value
+ª   ª   +---node_modules
+ª   ª       +---is-extendable
+ª   +---unique-filename
+ª   ª   +---.nyc_output
+ª   ª   +---coverage
+ª   ª   ª   +---__root__
+ª   ª   +---test
+ª   +---unique-slug
+ª   ª   +---test
+ª   +---unique-string
+ª   +---universalify
+ª   +---unpipe
+ª   +---unset-value
+ª   ª   +---node_modules
+ª   ª       +---has-value
+ª   ª       ª   +---node_modules
+ª   ª       ª       +---isobject
+ª   ª       +---has-values
+ª   +---update-browserslist-db
+ª   +---urix
+ª   ª   +---test
+ª   +---url-join
+ª   ª   +---lib
+ª   ª   +---test
+ª   +---url-parse
+ª   ª   +---dist
+ª   +---use
+ª   +---use-latest-callback
+ª   ª   +---lib
+ª   ª   +---src
+ª   +---use-sync-external-store
+ª   ª   +---cjs
+ª   ª   ª   +---use-sync-external-store-shim
+ª   ª   +---shim
+ª   +---util-deprecate
+ª   +---utils-merge
+ª   +---uuid
+ª   ª   +---bin
+ª   ª   +---lib
+ª   +---valid-url
+ª   ª   +---test
+ª   +---validate-npm-package-name
+ª   ª   +---.nyc_output
+ª   ª   +---test
+ª   +---vary
+ª   +---vlq
+ª   ª   +---dist
+ª   ª       +---types
+ª   +---walker
+ª   ª   +---lib
+ª   +---warn-once
+ª   +---wcwidth
+ª   ª   +---docs
+ª   ª   +---test
+ª   +---webidl-conversions
+ª   ª   +---lib
+ª   +---whatwg-fetch
+ª   ª   +---dist
+ª   +---whatwg-url
+ª   ª   +---lib
+ª   +---which
+ª   ª   +---bin
+ª   +---which-module
+ª   +---wonka
+ª   ª   +---dist
+ª   ª   ª   +---types
+ª   ª   ª       +---src
+ª   ª   ª           +---helpers
+ª   ª   ª           +---shims
+ª   ª   ª           +---web
+ª   ª   +---docs
+ª   ª   +---esy.lock
+ª   ª   +---src
+ª   ª       +---dune
+ª   ª       +---helpers
+ª   ª       +---include
+ª   ª       ª   +---rebel_js
+ª   ª       ª   +---rebel_native
+ª   ª       +---shims
+ª   ª       +---web
+ª   +---wrap-ansi
+ª   ª   +---node_modules
+ª   ª       +---ansi-styles
+ª   ª       +---color-convert
+ª   ª       +---color-name
+ª   ª       +---strip-ansi
+ª   +---wrappy
+ª   +---write-file-atomic
+ª   +---ws
+ª   ª   +---lib
+ª   +---xcode
+ª   ª   +---lib
+ª   ª   ª   +---parser
+ª   ª   +---node_modules
+ª   ª       +---.bin
+ª   ª       +---uuid
+ª   ª           +---dist
+ª   ª               +---bin
+ª   ª               +---esm-browser
+ª   ª               +---esm-node
+ª   ª               +---umd
+ª   +---xml2js
+ª   ª   +---lib
+ª   ª   +---node_modules
+ª   ª       +---xmlbuilder
+ª   ª           +---lib
+ª   ª           +---typings
+ª   +---xmlbuilder
+ª   ª   +---lib
+ª   ª   +---perf
+ª   ª   ª   +---basic
+ª   ª   +---typings
+ª   +---xtend
+ª   +---y18n
+ª   +---yallist
+ª   +---yargs
+ª   ª   +---build
+ª   ª   ª   +---lib
+ª   ª   +---locales
+ª   ª   +---node_modules
+ª   ª       +---find-up
+ª   ª       +---locate-path
+ª   ª       +---p-limit
+ª   ª       +---p-locate
+ª   ª       +---path-exists
+ª   +---yargs-parser
+ª   ª   +---lib
+ª   ª   +---node_modules
+ª   ª       +---camelcase
+ª   +---yocto-queue
++---pages
