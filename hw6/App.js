@@ -43,7 +43,7 @@ export default function MyTabs() {
   function MyScreenWrapper(){
     return (
       <>
-      <Text>{pressCount}</Text>
+      <Text style={{textAlign:'center'}}>{pressCount}</Text>
       <MyScreen database={database} pressCount={ pressCount } initImage={ imageId } onGuess={ incrementCounter } />
       </>
     )
@@ -51,7 +51,6 @@ export default function MyTabs() {
   
   return (
     <>
-    <MyButton onPressed={incrementCounter} key={10} name={"Button"} id={10} />
     <NavigationContainer>
         <Tab.Navigator>
           <Tab.Screen name="MyScreen" component={ MyScreenWrapper }  />
