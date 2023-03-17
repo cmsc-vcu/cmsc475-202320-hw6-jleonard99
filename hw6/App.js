@@ -2,26 +2,26 @@
 import React, {createContext, useState, useCallback, useEffect} from 'react';
 
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View, Image } from 'react-native';
+import { StyleSheet, Text, TextInput, View, Image } from 'react-native';
 import { globalStyles } from './pages/GlobalStyles.js';
 import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { MyScreen,MyButton } from "./pages/MyScreen.js";
 import { MyScreen2 } from "./pages/MyScreen2.js";
 import { database } from "./pages/MyDatabase";
+import { LoginScreen } from "./pages/LoginScreen";
 
 const Tab = createBottomTabNavigator();
 
-function App() {
+export default function App() {
   return (
     <>
-    <MyScreen />
+    <LoginScreen />
     </>
   );
 }
 
-
-export default function MyTabs() {
+export function MyTabs() {
   const [ pressCount , setPressCount ] = useState( 0 );
   const [ imageId, setImageId ] = useState( 0 );
 
