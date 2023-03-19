@@ -6,7 +6,7 @@ import { globalStyles } from './GlobalStyles';
 // import { database } from './MyDatabase';
 
 
-function MyButton( props ){
+export function MyButton( props ){
     return (
      <Pressable
         onPress={() => {
@@ -26,12 +26,11 @@ function MyButton( props ){
 }
 
 
-export function MyScreen( {database, buttonCount, onGuess } ) {
+export function MyScreen( {database, pressCount, initImage, onGuess } ) {
 
-    const [ imageId, setImageId ] = useState(0);
+    const [ imageId, setImageId ] = useState(initImage);
     const [ modalVisible, setModalVisible] = useState(false);
     const [ guess, setGuess ] = useState( imageId );
-    const [ localCount, setLocalCount ] = useState( 0 );
 
     // Passed to MyButton and triggered when button is pressed
 
@@ -39,19 +38,15 @@ export function MyScreen( {database, buttonCount, onGuess } ) {
       setGuess( i );
       if (imageId==i){
         setModalVisible( false );
-        setImageId( Math.floor(Math.random() * database.length ) );
+//        setImageId( Math.floor(Math.random() * database.length ) );
+        onGuess( pressCount + 1 );
       } else {
         setModalVisible( true );
       }
-      setLocalCount( localCount + 1 );
-      console.log( "localcount: ",localCount );
     }
-
-    useEffect( ()=>{ onGuess(localCount)},[]);
-
+    
     return (
       <View style={globalStyles.container}>
-        <Text>{localCount}</Text>
         <Card>
           <Image style={globalStyles.cartoon} source={database[imageId].image} />
           <Text>{database[imageId].notes}</Text>
